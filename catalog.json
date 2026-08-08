@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Walt Disney Studios",
+    "slug": "walt-disney-studios",
+    "matchKey": "walt disney studios",
+    "file": "icons/walt-disney-studios.svg"
+  },
+  {
+    "name": "Warner Bros.",
+    "slug": "warner-bros",
+    "matchKey": "warner bros.",
+    "file": "icons/warner-bros.svg"
+  },
+  {
+    "name": "Universal Pictures",
+    "slug": "universal-pictures",
+    "matchKey": "universal pictures",
+    "file": "icons/universal-pictures.svg"
+  },
+  {
+    "name": "Marvel Studios",
+    "slug": "marvel-studios",
+    "matchKey": "marvel studios",
+    "file": "icons/marvel-studios.svg"
+  },
+  {
+    "name": "Pixar Animation Studios",
+    "slug": "pixar-animation-studios",
+    "matchKey": "pixar animation studios",
+    "file": "icons/pixar-animation-studios.svg"
+  },
+  {
+    "name": "Amazon MGM Studios",
+    "slug": "amazon-mgm-studios",
+    "matchKey": "amazon mgm studios",
+    "file": "icons/amazon-mgm-studios.svg"
+  },
+  {
+    "name": "Lucasfilm",
+    "slug": "lucasfilm",
+    "matchKey": "lucasfilm",
+    "file": "icons/lucasfilm.svg"
+  },
+  {
+    "name": "DreamWorks Animation",
+    "slug": "dreamworks-animation",
+    "matchKey": "dreamworks animation",
+    "file": "icons/dreamworks-animation.svg"
+  },
+  {
+    "name": "Lionsgate",
+    "slug": "lionsgate",
+    "matchKey": "lionsgate",
+    "file": "icons/lionsgate.svg"
+  },
+  {
+    "name": "A24",
+    "slug": "a24",
+    "matchKey": "a24",
+    "file": "icons/a24.svg"
+  },
+  {
+    "name": "Studio Ghibli",
+    "slug": "studio-ghibli",
+    "matchKey": "studio ghibli",
+    "file": "icons/studio-ghibli.svg"
+  },
+  {
+    "name": "New Line Cinema",
+    "slug": "new-line-cinema",
+    "matchKey": "new line cinema",
+    "file": "icons/new-line-cinema.svg"
+  },
+  {
+    "name": "Illumination",
+    "slug": "illumination",
+    "matchKey": "illumination",
+    "file": "icons/illumination.svg"
+  },
+  {
+    "name": "Blumhouse Productions",
+    "slug": "blumhouse-productions",
+    "matchKey": "blumhouse productions",
+    "file": "icons/blumhouse-productions.svg"
+  },
+  {
+    "name": "Legendary Entertainment",
+    "slug": "legendary-entertainment",
+    "matchKey": "legendary entertainment",
+    "file": "icons/legendary-entertainment.svg"
+  },
+  {
+    "name": "Searchlight Pictures",
+    "slug": "searchlight-pictures",
+    "matchKey": "searchlight pictures",
+    "file": "icons/searchlight-pictures.svg"
+  },
+  {
+    "name": "Focus Features",
+    "slug": "focus-features",
+    "matchKey": "focus features",
+    "file": "icons/focus-features.svg"
+  },
+  {
+    "name": "Miramax",
+    "slug": "miramax",
+    "matchKey": "miramax",
+    "file": "icons/miramax.svg"
+  },
+  {
+    "name": "Skydance Media",
+    "slug": "skydance-media",
+    "matchKey": "skydance media",
+    "file": "icons/skydance-media.svg"
+  },
+  {
+    "name": "BBC",
+    "slug": "bbc",
+    "matchKey": "bbc",
+    "file": "icons/bbc.svg"
+  },
+  {
+    "name": "ABC",
+    "slug": "abc",
+    "matchKey": "abc",
+    "file": "icons/abc.svg"
+  },
+  {
+    "name": "FX",
+    "slug": "fx",
+    "matchKey": "fx",
+    "file": "icons/fx.svg"
+  },
+  {
+    "name": "AMC",
+    "slug": "amc",
+    "matchKey": "amc",
+    "file": "icons/amc.svg"
+  },
+  {
+    "name": "Village Roadshow Pictures",
+    "slug": "village-roadshow-pictures",
+    "matchKey": "village roadshow pictures",
+    "file": "icons/village-roadshow-pictures.svg"
+  },
+  {
+    "name": "Nickelodeon",
+    "slug": "nickelodeon",
+    "matchKey": "nickelodeon",
+    "file": "icons/nickelodeon.svg"
+  },
+  {
+    "name": "Cartoon Network",
+    "slug": "cartoon-network",
+    "matchKey": "cartoon network",
+    "file": "icons/cartoon-network.svg"
+  },
+  {
+    "name": "Comedy Central",
+    "slug": "comedy-central",
+    "matchKey": "comedy central",
+    "file": "icons/comedy-central.svg"
+  },
+  {
+    "name": "National Geographic",
+    "slug": "national-geographic",
+    "matchKey": "national geographic",
+    "file": "icons/national-geographic.svg"
+  },
+  {
+    "name": "Discovery",
+    "slug": "discovery",
+    "matchKey": "discovery",
+    "file": "icons/discovery.svg"
+  },
+  {
+    "name": "Aardman Animations",
+    "slug": "aardman-animations",
+    "matchKey": "aardman animations",
+    "file": "icons/aardman-animations.svg"
+  },
+  {
+    "name": "Laika",
+    "slug": "laika",
+    "matchKey": "laika",
+    "file": "icons/laika.svg"
+  },
+  {
+    "name": "STX Entertainment",
+    "slug": "stx-entertainment",
+    "matchKey": "stx entertainment",
+    "file": "icons/stx-entertainment.svg"
+  },
+  {
+    "name": "StudioCanal",
+    "slug": "studiocanal",
+    "matchKey": "studiocanal",
+    "file": "icons/studiocanal.svg"
+  },
+  {
+    "name": "NEON",
+    "slug": "neon",
+    "matchKey": "neon",
+    "file": "icons/neon.svg"
+  },
+  {
+    "name": "Toei Animation",
+    "slug": "toei-animation",
+    "matchKey": "toei animation",
+    "file": "icons/toei-animation.svg"
+  },
+  {
+    "name": "MAPPA",
+    "slug": "mappa",
+    "matchKey": "mappa",
+    "file": "icons/mappa.svg"
+  },
+  {
+    "name": "IFC Films",
+    "slug": "ifc-films",
+    "matchKey": "ifc films",
+    "file": "icons/ifc-films.svg"
+  },
+  {
+    "name": "Cartoon Saloon",
+    "slug": "cartoon-saloon",
+    "matchKey": "cartoon saloon",
+    "file": "icons/cartoon-saloon.svg"
+  },
+  {
+    "name": "Madhouse",
+    "slug": "madhouse",
+    "matchKey": "madhouse",
+    "file": "icons/madhouse.svg"
+  },
+  {
+    "name": "Kyoto Animation",
+    "slug": "kyoto-animation",
+    "matchKey": "kyoto animation",
+    "file": "icons/kyoto-animation.svg"
+  },
+  {
+    "name": "Magnolia Pictures",
+    "slug": "magnolia-pictures",
+    "matchKey": "magnolia pictures",
+    "file": "icons/magnolia-pictures.svg"
+  },
+  {
+    "name": "Janus Films",
+    "slug": "janus-films",
+    "matchKey": "janus films",
+    "file": "icons/janus-films.svg"
+  },
+  {
+    "name": "The Criterion Collection",
+    "slug": "the-criterion-collection",
+    "matchKey": "the criterion collection",
+    "file": "icons/the-criterion-collection.svg"
+  },
+  {
+    "name": "Bones",
+    "slug": "bones",
+    "matchKey": "bones",
+    "file": "icons/bones.svg"
+  },
+  {
+    "name": "GKIDS",
+    "slug": "gkids",
+    "matchKey": "gkids",
+    "file": "icons/gkids.svg"
+  },
+  {
+    "name": "Bleecker Street",
+    "slug": "bleecker-street",
+    "matchKey": "bleecker street",
+    "file": "icons/bleecker-street.svg"
+  },
+  {
+    "name": "Annapurna Pictures",
+    "slug": "annapurna-pictures",
+    "matchKey": "annapurna pictures",
+    "file": "icons/annapurna-pictures.svg"
+  },
+  {
+    "name": "Production I.G",
+    "slug": "production-ig",
+    "matchKey": "production i.g",
+    "file": "icons/production-ig.svg"
+  },
+  {
+    "name": "Sunrise (Bandai Namco Filmworks)",
+    "slug": "sunrise-(bandai-namco-filmworks)",
+    "matchKey": "sunrise (bandai namco filmworks)",
+    "file": "icons/sunrise-(bandai-namco-filmworks).svg"
+  },
+  {
+    "name": "Ufotable",
+    "slug": "ufotable",
+    "matchKey": "ufotable",
+    "file": "icons/ufotable.svg"
+  },
+  {
+    "name": "Wit Studio",
+    "slug": "wit-studio",
+    "matchKey": "wit studio",
+    "file": "icons/wit-studio.svg"
+  },
+  {
+    "name": "Studio Trigger",
+    "slug": "studio-trigger",
+    "matchKey": "studio trigger",
+    "file": "icons/studio-trigger.svg"
+  },
+  {
+    "name": "Science SARU",
+    "slug": "science-saru",
+    "matchKey": "science saru",
+    "file": "icons/science-saru.svg"
+  },
+  {
+    "name": "Roadside Attractions",
+    "slug": "roadside-attractions",
+    "matchKey": "roadside attractions",
+    "file": "icons/roadside-attractions.svg"
+  },
+  {
+    "name": "Oscilloscope Laboratories",
+    "slug": "oscilloscope-laboratories",
+    "matchKey": "oscilloscope laboratories",
+    "file": "icons/oscilloscope-laboratories.svg"
+  },
+  {
+    "name": "Arrow Films",
+    "slug": "arrow-films",
+    "matchKey": "arrow films",
+    "file": "icons/arrow-films.svg"
+  },
+  {
+    "name": "Kino Lorber",
+    "slug": "kino-lorber",
+    "matchKey": "kino lorber",
+    "file": "icons/kino-lorber.svg"
+  },
+  {
+    "name": "Gaumont",
+    "slug": "gaumont",
+    "matchKey": "gaumont",
+    "file": "icons/gaumont.svg"
+  },
+  {
+    "name": "Path\u00e9",
+    "slug": "path\u00e9",
+    "matchKey": "path\\u00e9",
+    "file": "icons/path\u00e9.svg"
+  },
+  {
+    "name": "Curzon",
+    "slug": "curzon",
+    "matchKey": "curzon",
+    "file": "icons/curzon.svg"
+  },
+  {
+    "name": "Wild Bunch",
+    "slug": "wild-bunch",
+    "matchKey": "wild bunch",
+    "file": "icons/wild-bunch.svg"
+  },
+  {
+    "name": "XYZ Films",
+    "slug": "xyz-films",
+    "matchKey": "xyz films",
+    "file": "icons/xyz-films.svg"
+  },
+  {
+    "name": "FilmNation Entertainment",
+    "slug": "filmnation-entertainment",
+    "matchKey": "filmnation entertainment",
+    "file": "icons/filmnation-entertainment.svg"
+  },
+  {
+    "name": "Blue Sky Studios",
+    "slug": "blue-sky-studios",
+    "matchKey": "blue sky studios",
+    "file": "icons/blue-sky-studios.svg"
+  },
+  {
+    "name": "Bad Robot",
+    "slug": "bad-robot",
+    "matchKey": "bad robot",
+    "file": "icons/bad-robot.svg"
+  },
+  {
+    "name": "Amblin Entertainment",
+    "slug": "amblin-entertainment",
+    "matchKey": "amblin entertainment",
+    "file": "icons/amblin-entertainment.svg"
+  },
+  {
+    "name": "Spyglass Media Group",
+    "slug": "spyglass-media-group",
+    "matchKey": "spyglass media group",
+    "file": "icons/spyglass-media-group.svg"
+  },
+  {
+    "name": "Participant",
+    "slug": "participant",
+    "matchKey": "participant",
+    "file": "icons/participant.svg"
+  },
+  {
+    "name": "Working Title Films",
+    "slug": "working-title-films",
+    "matchKey": "working title films",
+    "file": "icons/working-title-films.svg"
+  },
+  {
+    "name": "Plan B Entertainment",
+    "slug": "plan-b-entertainment",
+    "matchKey": "plan b entertainment",
+    "file": "icons/plan-b-entertainment.svg"
+  }
+]
