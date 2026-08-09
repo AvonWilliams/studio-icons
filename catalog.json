@@ -4198,5 +4198,369 @@
     "matchKey": "white fox",
     "file": "icons/uncategorized/white-fox.svg",
     "region": "uncategorized"
+  },
+  {
+    "name": "Sundream Motion Pictures",
+    "slug": "sundream-motion-pictures",
+    "matchKey": "sundream motion pictures",
+    "file": "icons/asia-pacific/sundream-motion-pictures.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Sunwoo Entertainment",
+    "slug": "sunwoo-entertainment",
+    "matchKey": "sunwoo entertainment",
+    "file": "icons/asia-pacific/sunwoo-entertainment.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Suresh Productions",
+    "slug": "suresh-productions",
+    "matchKey": "suresh productions",
+    "file": "icons/asia-pacific/suresh-productions.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Surinder Films",
+    "slug": "surinder-films",
+    "matchKey": "surinder films",
+    "file": "icons/asia-pacific/surinder-films.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Utv Motion Pictures",
+    "slug": "utv-motion-pictures",
+    "matchKey": "utv motion pictures",
+    "file": "icons/asia-pacific/utv-motion-pictures.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Vaaraahi Chalana Chitram",
+    "slug": "vaaraahi-chalana-chitram",
+    "matchKey": "vaaraahi chalana chitram",
+    "file": "icons/asia-pacific/vaaraahi-chalana-chitram.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Vasoon Animation",
+    "slug": "vasoon-animation",
+    "matchKey": "vasoon animation",
+    "file": "icons/asia-pacific/vasoon-animation.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Viacom 18 Motion Pictures",
+    "slug": "viacom-18-motion-pictures",
+    "matchKey": "viacom 18 motion pictures",
+    "file": "icons/asia-pacific/viacom-18-motion-pictures.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Bobbypills",
+    "slug": "bobbypills",
+    "matchKey": "bobbypills",
+    "file": "icons/europe/bobbypills.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Cake Entertainment",
+    "slug": "cake-entertainment",
+    "matchKey": "cake entertainment",
+    "file": "icons/europe/cake-entertainment.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Celluloid Dreams",
+    "slug": "celluloid-dreams",
+    "matchKey": "celluloid dreams",
+    "file": "icons/europe/celluloid-dreams.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Sun Creature Studio",
+    "slug": "sun-creature-studio",
+    "matchKey": "sun creature studio",
+    "file": "icons/europe/sun-creature-studio.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Superprod Group",
+    "slug": "superprod-group",
+    "matchKey": "superprod group",
+    "file": "icons/europe/superprod-group.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Surbiton Studios",
+    "slug": "surbiton-studios",
+    "matchKey": "surbiton studios",
+    "file": "icons/europe/surbiton-studios.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Svarog Films",
+    "slug": "svarog-films",
+    "matchKey": "svarog films",
+    "file": "icons/europe/svarog-films.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Sverdlovsk Film Studio",
+    "slug": "sverdlovsk-film-studio",
+    "matchKey": "sverdlovsk film studio",
+    "file": "icons/europe/sverdlovsk-film-studio.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Taodue",
+    "slug": "taodue",
+    "matchKey": "taodue",
+    "file": "icons/europe/taodue.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Velvet Film",
+    "slug": "velvet-film",
+    "matchKey": "velvet film",
+    "file": "icons/europe/velvet-film.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Vera Film",
+    "slug": "vera-film",
+    "matchKey": "vera film",
+    "file": "icons/europe/vera-film.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Vertigo Films",
+    "slug": "vertigo-films",
+    "matchKey": "vertigo films",
+    "file": "icons/europe/vertigo-films.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Bardel Entertainment",
+    "slug": "bardel-entertainment",
+    "matchKey": "bardel entertainment",
+    "file": "icons/north-america/bardel-entertainment.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Big Idea Entertainment",
+    "slug": "big-idea-entertainment",
+    "matchKey": "big idea entertainment",
+    "file": "icons/north-america/big-idea-entertainment.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Blinding Edge Pictures",
+    "slug": "blinding-edge-pictures",
+    "matchKey": "blinding edge pictures",
+    "file": "icons/north-america/blinding-edge-pictures.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Caravan Pictures",
+    "slug": "caravan-pictures",
+    "matchKey": "caravan pictures",
+    "file": "icons/north-america/caravan-pictures.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Cedar Grove Productions",
+    "slug": "cedar-grove-productions",
+    "matchKey": "cedar grove productions",
+    "file": "icons/north-america/cedar-grove-productions.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Sun Haven Studios",
+    "slug": "sun-haven-studios",
+    "matchKey": "sun haven studios",
+    "file": "icons/north-america/sun-haven-studios.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Sunbow Entertainment",
+    "slug": "sunbow-entertainment",
+    "matchKey": "sunbow entertainment",
+    "file": "icons/north-america/sunbow-entertainment.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Suneeva",
+    "slug": "suneeva",
+    "matchKey": "suneeva",
+    "file": "icons/north-america/suneeva.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Universal Animation Studios",
+    "slug": "universal-animation-studios",
+    "matchKey": "universal animation studios",
+    "file": "icons/north-america/universal-animation-studios.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Universal Content Productions",
+    "slug": "universal-content-productions",
+    "matchKey": "universal content productions",
+    "file": "icons/north-america/universal-content-productions.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Universal Television",
+    "slug": "universal-television",
+    "matchKey": "universal television",
+    "file": "icons/north-america/universal-television.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Van Beuren Studios",
+    "slug": "van-beuren-studios",
+    "matchKey": "van beuren studios",
+    "file": "icons/north-america/van-beuren-studios.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Vanguard Animation",
+    "slug": "vanguard-animation",
+    "matchKey": "vanguard animation",
+    "file": "icons/north-america/vanguard-animation.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Syfy",
+    "slug": "syfy",
+    "matchKey": "syfy",
+    "file": "icons/streaming-networks/syfy.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Usa Network",
+    "slug": "usa-network",
+    "matchKey": "usa network",
+    "file": "icons/streaming-networks/usa-network.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Vh1",
+    "slug": "vh1",
+    "matchKey": "vh1",
+    "file": "icons/streaming-networks/vh1.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Viaplay",
+    "slug": "viaplay",
+    "matchKey": "viaplay",
+    "file": "icons/streaming-networks/viaplay.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "S Pictures",
+    "slug": "s-pictures",
+    "matchKey": "s pictures",
+    "file": "icons/uncategorized/s-pictures.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "S4C",
+    "slug": "s4c",
+    "matchKey": "s4c",
+    "file": "icons/uncategorized/s4c.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Saerom Animation",
+    "slug": "saerom-animation",
+    "matchKey": "saerom animation",
+    "file": "icons/uncategorized/saerom-animation.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Saga Studios",
+    "slug": "saga-studios",
+    "matchKey": "saga studios",
+    "file": "icons/uncategorized/saga-studios.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sagafilm",
+    "slug": "sagafilm",
+    "matchKey": "sagafilm",
+    "file": "icons/uncategorized/sagafilm.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Salman Khan Films",
+    "slug": "salman-khan-films",
+    "matchKey": "salman khan films",
+    "file": "icons/uncategorized/salman-khan-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sandrew Metronome",
+    "slug": "sandrew-metronome",
+    "matchKey": "sandrew metronome",
+    "file": "icons/uncategorized/sandrew-metronome.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sands Films Studio",
+    "slug": "sands-films-studio",
+    "matchKey": "sands films studio",
+    "file": "icons/uncategorized/sands-films-studio.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Saram Entertainment",
+    "slug": "saram-entertainment",
+    "matchKey": "saram entertainment",
+    "file": "icons/uncategorized/saram-entertainment.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sav The World Productions",
+    "slug": "sav-the-world-productions",
+    "matchKey": "sav the world productions",
+    "file": "icons/uncategorized/sav-the-world-productions.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Scalera Film",
+    "slug": "scalera-film",
+    "matchKey": "scalera film",
+    "file": "icons/uncategorized/scalera-film.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sciapode",
+    "slug": "sciapode",
+    "matchKey": "sciapode",
+    "file": "icons/uncategorized/sciapode.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Screen Australia",
+    "slug": "screen-australia",
+    "matchKey": "screen australia",
+    "file": "icons/uncategorized/screen-australia.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Screen Media Films",
+    "slug": "screen-media-films",
+    "matchKey": "screen media films",
+    "file": "icons/uncategorized/screen-media-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sie Films",
+    "slug": "sie-films",
+    "matchKey": "sie films",
+    "file": "icons/uncategorized/sie-films.svg",
+    "region": "uncategorized"
   }
 ]
