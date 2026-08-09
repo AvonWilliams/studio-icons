@@ -2555,111 +2555,6 @@
     "region": "asia-pacific"
   },
   {
-    "name": "Pbs",
-    "slug": "pbs",
-    "matchKey": "pbs",
-    "file": "icons/uncategorized/pbs.svg",
-    "region": "streaming-networks"
-  },
-  {
-    "name": "Point Grey Pictures",
-    "slug": "point-grey-pictures",
-    "matchKey": "point grey pictures",
-    "file": "icons/uncategorized/point-grey-pictures.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Rankin Bass Animated Entertainment",
-    "slug": "rankin-bass-animated-entertainment",
-    "matchKey": "rankin bass animated entertainment",
-    "file": "icons/uncategorized/rankin-bass-animated-entertainment.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Rogue Pictures",
-    "slug": "rogue-pictures",
-    "matchKey": "rogue pictures",
-    "file": "icons/uncategorized/rogue-pictures.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Sanrio",
-    "slug": "sanrio",
-    "matchKey": "sanrio",
-    "file": "icons/uncategorized/sanrio.svg",
-    "region": "asia-pacific"
-  },
-  {
-    "name": "See Saw Films",
-    "slug": "see-saw-films",
-    "matchKey": "see saw films",
-    "file": "icons/uncategorized/see-saw-films.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Shepperton Studios",
-    "slug": "shepperton-studios",
-    "matchKey": "shepperton studios",
-    "file": "icons/uncategorized/shepperton-studios.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Shinei Animation",
-    "slug": "shinei-animation",
-    "matchKey": "shinei animation",
-    "file": "icons/uncategorized/shinei-animation.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Silver Pictures",
-    "slug": "silver-pictures",
-    "matchKey": "silver pictures",
-    "file": "icons/uncategorized/silver-pictures.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Skydance Animation",
-    "slug": "skydance-animation",
-    "matchKey": "skydance animation",
-    "file": "icons/uncategorized/skydance-animation.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Sony Pictures Animation",
-    "slug": "sony-pictures-animation",
-    "matchKey": "sony pictures animation",
-    "file": "icons/uncategorized/sony-pictures-animation.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Sony Pictures Classics",
-    "slug": "sony-pictures-classics",
-    "matchKey": "sony pictures classics",
-    "file": "icons/uncategorized/sony-pictures-classics.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "South Park Studios",
-    "slug": "south-park-studios",
-    "matchKey": "south park studios",
-    "file": "icons/uncategorized/south-park-studios.svg",
-    "region": "uncategorized"
-  },
-  {
-    "name": "Soyuzmultfilm",
-    "slug": "soyuzmultfilm",
-    "matchKey": "soyuzmultfilm",
-    "file": "icons/uncategorized/soyuzmultfilm.svg",
-    "region": "europe"
-  },
-  {
-    "name": "Open Road Films",
-    "slug": "open-road-films",
-    "matchKey": "open road films",
-    "file": "icons/uncategorized/open-road-films.svg",
-    "region": "uncategorized"
-  },
-  {
     "name": "Olm",
     "slug": "olm",
     "matchKey": "olm",
@@ -2761,8 +2656,8 @@
     "name": "Gainax",
     "slug": "gainax",
     "matchKey": "gainax",
-    "file": "icons/asia-pacific/gainax.svg",
-    "region": "asia-pacific"
+    "file": "icons/uncategorized/gainax.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Gmm Tai Hub Thailand",
@@ -2772,31 +2667,10 @@
     "region": "asia-pacific"
   },
   {
-    "name": "Jc Staff",
-    "slug": "jc-staff",
-    "matchKey": "jc staff",
-    "file": "icons/asia-pacific/jc-staff.svg",
-    "region": "asia-pacific"
-  },
-  {
     "name": "Jcstaff",
     "slug": "jcstaff",
     "matchKey": "jcstaff",
     "file": "icons/asia-pacific/jcstaff.svg",
-    "region": "asia-pacific"
-  },
-  {
-    "name": "Kennedy Miller Mitchell",
-    "slug": "kennedy-miller-mitchell",
-    "matchKey": "kennedy miller mitchell",
-    "file": "icons/asia-pacific/kennedy-miller-mitchell.svg",
-    "region": "asia-pacific"
-  },
-  {
-    "name": "Khara",
-    "slug": "khara",
-    "matchKey": "khara",
-    "file": "icons/asia-pacific/khara.svg",
     "region": "asia-pacific"
   },
   {
@@ -2810,35 +2684,14 @@
     "name": "Nippon Animation",
     "slug": "nippon-animation",
     "matchKey": "nippon animation",
-    "file": "icons/asia-pacific/nippon-animation.svg",
-    "region": "asia-pacific"
+    "file": "icons/uncategorized/nippon-animation.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Sampaguita Pictures Philippines",
     "slug": "sampaguita-pictures-philippines",
     "matchKey": "sampaguita pictures philippines",
     "file": "icons/asia-pacific/sampaguita-pictures-philippines.svg",
-    "region": "asia-pacific"
-  },
-  {
-    "name": "Sanzigen",
-    "slug": "sanzigen",
-    "matchKey": "sanzigen",
-    "file": "icons/asia-pacific/sanzigen.svg",
-    "region": "asia-pacific"
-  },
-  {
-    "name": "Satelight",
-    "slug": "satelight",
-    "matchKey": "satelight",
-    "file": "icons/asia-pacific/satelight.svg",
-    "region": "asia-pacific"
-  },
-  {
-    "name": "Shaft",
-    "slug": "shaft",
-    "matchKey": "shaft",
-    "file": "icons/asia-pacific/shaft.svg",
     "region": "asia-pacific"
   },
   {
@@ -2898,32 +2751,25 @@
     "region": "europe"
   },
   {
-    "name": "Dovzhenko Film Studio Ukraine",
-    "slug": "dovzhenko-film-studio-ukraine",
-    "matchKey": "dovzhenko film studio ukraine",
-    "file": "icons/europe/dovzhenko-film-studio-ukraine.svg",
-    "region": "europe"
-  },
-  {
     "name": "Dovzhenko Film Studio",
     "slug": "dovzhenko-film-studio",
     "matchKey": "dovzhenko film studio",
-    "file": "icons/europe/dovzhenko-film-studio.svg",
-    "region": "europe"
+    "file": "icons/uncategorized/dovzhenko-film-studio.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Gorky Film Studio",
     "slug": "gorky-film-studio",
     "matchKey": "gorky film studio",
-    "file": "icons/europe/gorky-film-studio.svg",
-    "region": "europe"
+    "file": "icons/uncategorized/gorky-film-studio.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Handmade Films",
     "slug": "handmade-films",
     "matchKey": "handmade films",
-    "file": "icons/europe/handmade-films.svg",
-    "region": "europe"
+    "file": "icons/uncategorized/handmade-films.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Jadran Film Croatia",
@@ -2936,15 +2782,8 @@
     "name": "Lenfilm",
     "slug": "lenfilm",
     "matchKey": "lenfilm",
-    "file": "icons/europe/lenfilm.svg",
-    "region": "europe"
-  },
-  {
-    "name": "Les Armateurs",
-    "slug": "les-armateurs",
-    "matchKey": "les armateurs",
-    "file": "icons/europe/les-armateurs.svg",
-    "region": "europe"
+    "file": "icons/uncategorized/lenfilm.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Locksmith Animation",
@@ -2954,38 +2793,10 @@
     "region": "europe"
   },
   {
-    "name": "Marv Films",
-    "slug": "marv-films",
-    "matchKey": "marv films",
-    "file": "icons/europe/marv-films.svg",
-    "region": "europe"
-  },
-  {
     "name": "Nu Boyana Film Studios Bulgaria",
     "slug": "nu-boyana-film-studios-bulgaria",
     "matchKey": "nu boyana film studios bulgaria",
     "file": "icons/europe/nu-boyana-film-studios-bulgaria.svg",
-    "region": "europe"
-  },
-  {
-    "name": "Passion Pictures",
-    "slug": "passion-pictures",
-    "matchKey": "passion pictures",
-    "file": "icons/europe/passion-pictures.svg",
-    "region": "europe"
-  },
-  {
-    "name": "Ragdoll Productions",
-    "slug": "ragdoll-productions",
-    "matchKey": "ragdoll productions",
-    "file": "icons/europe/ragdoll-productions.svg",
-    "region": "europe"
-  },
-  {
-    "name": "Smallfilms",
-    "slug": "smallfilms",
-    "matchKey": "smallfilms",
-    "file": "icons/europe/smallfilms.svg",
     "region": "europe"
   },
   {
@@ -3038,34 +2849,6 @@
     "region": "north-america"
   },
   {
-    "name": "Essanay Studios",
-    "slug": "essanay-studios",
-    "matchKey": "essanay studios",
-    "file": "icons/north-america/essanay-studios.svg",
-    "region": "north-america"
-  },
-  {
-    "name": "Filmation",
-    "slug": "filmation",
-    "matchKey": "filmation",
-    "file": "icons/north-america/filmation.svg",
-    "region": "north-america"
-  },
-  {
-    "name": "Fleischer Studios",
-    "slug": "fleischer-studios",
-    "matchKey": "fleischer studios",
-    "file": "icons/north-america/fleischer-studios.svg",
-    "region": "north-america"
-  },
-  {
-    "name": "Fox Film Corporation",
-    "slug": "fox-film-corporation",
-    "matchKey": "fox film corporation",
-    "file": "icons/north-america/fox-film-corporation.svg",
-    "region": "north-america"
-  },
-  {
     "name": "Frederator Studios",
     "slug": "frederator-studios",
     "matchKey": "frederator studios",
@@ -3076,29 +2859,29 @@
     "name": "Hemdale Film Corporation",
     "slug": "hemdale-film-corporation",
     "matchKey": "hemdale film corporation",
-    "file": "icons/north-america/hemdale-film-corporation.svg",
-    "region": "north-america"
+    "file": "icons/uncategorized/hemdale-film-corporation.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Keystone Studios",
     "slug": "keystone-studios",
     "matchKey": "keystone studios",
-    "file": "icons/north-america/keystone-studios.svg",
-    "region": "north-america"
+    "file": "icons/uncategorized/keystone-studios.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Liberty Films",
     "slug": "liberty-films",
     "matchKey": "liberty films",
-    "file": "icons/north-america/liberty-films.svg",
-    "region": "north-america"
+    "file": "icons/uncategorized/liberty-films.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Lions Gate Entertainment",
     "slug": "lions-gate-entertainment",
     "matchKey": "lions gate entertainment",
-    "file": "icons/north-america/lions-gate-entertainment.svg",
-    "region": "north-america"
+    "file": "icons/uncategorized/lions-gate-entertainment.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Lucasfilm Animation",
@@ -3108,38 +2891,17 @@
     "region": "north-america"
   },
   {
-    "name": "Metro Pictures",
-    "slug": "metro-pictures",
-    "matchKey": "metro pictures",
-    "file": "icons/north-america/metro-pictures.svg",
-    "region": "north-america"
-  },
-  {
-    "name": "Mgm Animation",
-    "slug": "mgm-animation",
-    "matchKey": "mgm animation",
-    "file": "icons/north-america/mgm-animation.svg",
-    "region": "north-america"
-  },
-  {
     "name": "Mutual Film",
     "slug": "mutual-film",
     "matchKey": "mutual film",
-    "file": "icons/north-america/mutual-film.svg",
-    "region": "north-america"
+    "file": "icons/uncategorized/mutual-film.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Nickelodeon Animation Studio",
     "slug": "nickelodeon-animation-studio",
     "matchKey": "nickelodeon animation studio",
     "file": "icons/north-america/nickelodeon-animation-studio.svg",
-    "region": "north-america"
-  },
-  {
-    "name": "Ruby Spears Productions",
-    "slug": "ruby-spears-productions",
-    "matchKey": "ruby spears productions",
-    "file": "icons/north-america/ruby-spears-productions.svg",
     "region": "north-america"
   },
   {
