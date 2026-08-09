@@ -2448,5 +2448,215 @@
     "matchKey": "arclight films",
     "file": "icons/north-america/arclight-films.svg",
     "region": "north-america"
+  },
+  {
+    "name": "History Channel",
+    "slug": "history-channel",
+    "matchKey": "history channel",
+    "file": "icons/uncategorized/history-channel.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Hulu",
+    "slug": "hulu",
+    "matchKey": "hulu",
+    "file": "icons/uncategorized/hulu.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Imagine Entertainment",
+    "slug": "imagine-entertainment",
+    "matchKey": "imagine entertainment",
+    "file": "icons/uncategorized/imagine-entertainment.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Industrial Light Magic",
+    "slug": "industrial-light-magic",
+    "matchKey": "industrial light magic",
+    "file": "icons/uncategorized/industrial-light-magic.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Itv",
+    "slug": "itv",
+    "matchKey": "itv",
+    "file": "icons/uncategorized/itv.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Klasky Csupo",
+    "slug": "klasky-csupo",
+    "matchKey": "klasky csupo",
+    "file": "icons/uncategorized/klasky-csupo.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Legendary Pictures",
+    "slug": "legendary-pictures",
+    "matchKey": "legendary pictures",
+    "file": "icons/uncategorized/legendary-pictures.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Lifetime",
+    "slug": "lifetime",
+    "matchKey": "lifetime",
+    "file": "icons/uncategorized/lifetime.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Lionsgate Films",
+    "slug": "lionsgate-films",
+    "matchKey": "lionsgate films",
+    "file": "icons/uncategorized/lionsgate-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Marvel Animation",
+    "slug": "marvel-animation",
+    "matchKey": "marvel animation",
+    "file": "icons/uncategorized/marvel-animation.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Max",
+    "slug": "max",
+    "matchKey": "max",
+    "file": "icons/uncategorized/max.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "National Film Board Of Canada",
+    "slug": "national-film-board-of-canada",
+    "matchKey": "national film board of canada",
+    "file": "icons/uncategorized/national-film-board-of-canada.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Nhk",
+    "slug": "nhk",
+    "matchKey": "nhk",
+    "file": "icons/uncategorized/nhk.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Nickelodeon Movies",
+    "slug": "nickelodeon-movies",
+    "matchKey": "nickelodeon movies",
+    "file": "icons/uncategorized/nickelodeon-movies.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Nintendo Pictures",
+    "slug": "nintendo-pictures",
+    "matchKey": "nintendo pictures",
+    "file": "icons/uncategorized/nintendo-pictures.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Pbs",
+    "slug": "pbs",
+    "matchKey": "pbs",
+    "file": "icons/uncategorized/pbs.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Point Grey Pictures",
+    "slug": "point-grey-pictures",
+    "matchKey": "point grey pictures",
+    "file": "icons/uncategorized/point-grey-pictures.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Rankin Bass Animated Entertainment",
+    "slug": "rankin-bass-animated-entertainment",
+    "matchKey": "rankin bass animated entertainment",
+    "file": "icons/uncategorized/rankin-bass-animated-entertainment.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Rogue Pictures",
+    "slug": "rogue-pictures",
+    "matchKey": "rogue pictures",
+    "file": "icons/uncategorized/rogue-pictures.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sanrio",
+    "slug": "sanrio",
+    "matchKey": "sanrio",
+    "file": "icons/uncategorized/sanrio.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "See Saw Films",
+    "slug": "see-saw-films",
+    "matchKey": "see saw films",
+    "file": "icons/uncategorized/see-saw-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Shepperton Studios",
+    "slug": "shepperton-studios",
+    "matchKey": "shepperton studios",
+    "file": "icons/uncategorized/shepperton-studios.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Shinei Animation",
+    "slug": "shinei-animation",
+    "matchKey": "shinei animation",
+    "file": "icons/uncategorized/shinei-animation.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Silver Pictures",
+    "slug": "silver-pictures",
+    "matchKey": "silver pictures",
+    "file": "icons/uncategorized/silver-pictures.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Skydance Animation",
+    "slug": "skydance-animation",
+    "matchKey": "skydance animation",
+    "file": "icons/uncategorized/skydance-animation.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sony Pictures Animation",
+    "slug": "sony-pictures-animation",
+    "matchKey": "sony pictures animation",
+    "file": "icons/uncategorized/sony-pictures-animation.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sony Pictures Classics",
+    "slug": "sony-pictures-classics",
+    "matchKey": "sony pictures classics",
+    "file": "icons/uncategorized/sony-pictures-classics.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "South Park Studios",
+    "slug": "south-park-studios",
+    "matchKey": "south park studios",
+    "file": "icons/uncategorized/south-park-studios.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Soyuzmultfilm",
+    "slug": "soyuzmultfilm",
+    "matchKey": "soyuzmultfilm",
+    "file": "icons/uncategorized/soyuzmultfilm.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Open Road Films",
+    "slug": "open-road-films",
+    "matchKey": "open road films",
+    "file": "icons/uncategorized/open-road-films.svg",
+    "region": "uncategorized"
   }
 ]
