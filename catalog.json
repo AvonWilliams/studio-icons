@@ -2035,5 +2035,313 @@
     "matchKey": "zentropa",
     "file": "icons/europe/zentropa.svg",
     "region": "europe"
+  },
+  {
+    "name": "Cattleya",
+    "slug": "cattleya",
+    "matchKey": "cattleya",
+    "file": "icons/europe/cattleya.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Dna Films",
+    "slug": "dna-films",
+    "matchKey": "dna films",
+    "file": "icons/europe/dna-films.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Eon Productions",
+    "slug": "eon-productions",
+    "matchKey": "eon productions",
+    "file": "icons/europe/eon-productions.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Filmax",
+    "slug": "filmax",
+    "matchKey": "filmax",
+    "file": "icons/europe/filmax.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Heyday Films",
+    "slug": "heyday-films",
+    "matchKey": "heyday films",
+    "file": "icons/europe/heyday-films.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Leonine Holding",
+    "slug": "leonine-holding",
+    "matchKey": "leonine holding",
+    "file": "icons/europe/leonine-holding.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Les Films Du Losange",
+    "slug": "les-films-du-losange",
+    "matchKey": "les films du losange",
+    "file": "icons/europe/les-films-du-losange.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Mars Films",
+    "slug": "mars-films",
+    "matchKey": "mars films",
+    "file": "icons/europe/mars-films.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Norsk Film",
+    "slug": "norsk-film",
+    "matchKey": "norsk film",
+    "file": "icons/europe/norsk-film.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Rai Cinema",
+    "slug": "rai-cinema",
+    "matchKey": "rai cinema",
+    "file": "icons/europe/rai-cinema.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Sonet Film",
+    "slug": "sonet-film",
+    "matchKey": "sonet film",
+    "file": "icons/europe/sonet-film.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Tf1",
+    "slug": "tf1",
+    "matchKey": "tf1",
+    "file": "icons/europe/tf1.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Titanus",
+    "slug": "titanus",
+    "matchKey": "titanus",
+    "file": "icons/europe/titanus.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Tobis Film",
+    "slug": "tobis-film",
+    "matchKey": "tobis film",
+    "file": "icons/europe/tobis-film.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Why Not Productions",
+    "slug": "why-not-productions",
+    "matchKey": "why not productions",
+    "file": "icons/europe/why-not-productions.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Viacom18 Studios",
+    "slug": "viacom18-studios",
+    "matchKey": "viacom18 studios",
+    "file": "icons/uncategorized/viacom18-studios.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sun Pictures",
+    "slug": "sun-pictures",
+    "matchKey": "sun pictures",
+    "file": "icons/asia-pacific/sun-pictures.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Manga Productions",
+    "slug": "manga-productions",
+    "matchKey": "manga productions",
+    "file": "icons/latin-america/manga-productions.svg",
+    "region": "latin-america"
+  },
+  {
+    "name": "Nemsia Studios",
+    "slug": "nemsia-studios",
+    "matchKey": "nemsia studios",
+    "file": "icons/middle-east-africa/nemsia-studios.svg",
+    "region": "middle-east-africa"
+  },
+  {
+    "name": "Cape Town Film Studios",
+    "slug": "cape-town-film-studios",
+    "matchKey": "cape town film studios",
+    "file": "icons/middle-east-africa/cape-town-film-studios.svg",
+    "region": "middle-east-africa"
+  },
+  {
+    "name": "Mantarraya Productions",
+    "slug": "mantarraya-productions",
+    "matchKey": "mantarraya productions",
+    "file": "icons/latin-america/mantarraya-productions.svg",
+    "region": "latin-america"
+  },
+  {
+    "name": "Rooster Teeth Productions",
+    "slug": "rooster-teeth-productions",
+    "matchKey": "rooster teeth productions",
+    "file": "icons/north-america/rooster-teeth-productions.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Platinum Dunes",
+    "slug": "platinum-dunes",
+    "matchKey": "platinum dunes",
+    "file": "icons/north-america/platinum-dunes.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Huevocartoon",
+    "slug": "huevocartoon",
+    "matchKey": "huevocartoon",
+    "file": "icons/latin-america/huevocartoon.svg",
+    "region": "latin-america"
+  },
+  {
+    "name": "Walden Media",
+    "slug": "walden-media",
+    "matchKey": "walden media",
+    "file": "icons/north-america/walden-media.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Argentina Sono Film",
+    "slug": "argentina-sono-film",
+    "matchKey": "argentina sono film",
+    "file": "icons/latin-america/argentina-sono-film.svg",
+    "region": "latin-america"
+  },
+  {
+    "name": "Titmouse",
+    "slug": "titmouse",
+    "matchKey": "titmouse",
+    "file": "icons/north-america/titmouse.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Lightstorm Entertainment",
+    "slug": "lightstorm-entertainment",
+    "matchKey": "lightstorm entertainment",
+    "file": "icons/north-america/lightstorm-entertainment.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Nelvana",
+    "slug": "nelvana",
+    "matchKey": "nelvana",
+    "file": "icons/north-america/nelvana.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Tyler Perry Studios",
+    "slug": "tyler-perry-studios",
+    "matchKey": "tyler perry studios",
+    "file": "icons/north-america/tyler-perry-studios.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Hanna Barbera",
+    "slug": "hanna-barbera",
+    "matchKey": "hanna barbera",
+    "file": "icons/north-america/hanna-barbera.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Revolution Studios",
+    "slug": "revolution-studios",
+    "matchKey": "revolution studios",
+    "file": "icons/north-america/revolution-studios.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Happy Madison Productions",
+    "slug": "happy-madison-productions",
+    "matchKey": "happy madison productions",
+    "file": "icons/north-america/happy-madison-productions.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Amazon Prime Video",
+    "slug": "amazon-prime-video",
+    "matchKey": "amazon prime video",
+    "file": "icons/streaming-networks/amazon-prime-video.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Screen Gems",
+    "slug": "screen-gems",
+    "matchKey": "screen gems",
+    "file": "icons/north-america/screen-gems.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Peacock",
+    "slug": "peacock",
+    "matchKey": "peacock",
+    "file": "icons/streaming-networks/peacock.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Scott Free Productions",
+    "slug": "scott-free-productions",
+    "matchKey": "scott free productions",
+    "file": "icons/north-america/scott-free-productions.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Paramount Plus",
+    "slug": "paramount-plus",
+    "matchKey": "paramount plus",
+    "file": "icons/streaming-networks/paramount-plus.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Apple Tv Plus",
+    "slug": "apple-tv-plus",
+    "matchKey": "apple tv plus",
+    "file": "icons/streaming-networks/apple-tv-plus.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Syncopy",
+    "slug": "syncopy",
+    "matchKey": "syncopy",
+    "file": "icons/north-america/syncopy.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Summit Entertainment",
+    "slug": "summit-entertainment",
+    "matchKey": "summit entertainment",
+    "file": "icons/north-america/summit-entertainment.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Dc Studios",
+    "slug": "dc-studios",
+    "matchKey": "dc studios",
+    "file": "icons/north-america/dc-studios.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Jerry Bruckheimer Films",
+    "slug": "jerry-bruckheimer-films",
+    "matchKey": "jerry bruckheimer films",
+    "file": "icons/north-america/jerry-bruckheimer-films.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Castle Rock Entertainment",
+    "slug": "castle-rock-entertainment",
+    "matchKey": "castle rock entertainment",
+    "file": "icons/north-america/castle-rock-entertainment.svg",
+    "region": "north-america"
   }
 ]
