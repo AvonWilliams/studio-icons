@@ -3,1746 +3,2037 @@
     "name": "Walt Disney Studios",
     "slug": "walt-disney-studios",
     "matchKey": "walt disney studios",
-    "file": "icons/walt-disney-studios.svg"
+    "file": "icons/north-america/walt-disney-studios.svg",
+    "region": "north-america"
   },
   {
     "name": "Warner Bros.",
     "slug": "warner-bros",
     "matchKey": "warner bros.",
-    "file": "icons/warner-bros.svg"
+    "file": "icons/north-america/warner-bros.svg",
+    "region": "north-america"
   },
   {
     "name": "Universal Pictures",
     "slug": "universal-pictures",
     "matchKey": "universal pictures",
-    "file": "icons/universal-pictures.svg"
+    "file": "icons/north-america/universal-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "Marvel Studios",
     "slug": "marvel-studios",
     "matchKey": "marvel studios",
-    "file": "icons/marvel-studios.svg"
+    "file": "icons/north-america/marvel-studios.svg",
+    "region": "north-america"
   },
   {
     "name": "Pixar Animation Studios",
     "slug": "pixar-animation-studios",
     "matchKey": "pixar animation studios",
-    "file": "icons/pixar-animation-studios.svg"
+    "file": "icons/north-america/pixar-animation-studios.svg",
+    "region": "north-america"
   },
   {
     "name": "Amazon MGM Studios",
     "slug": "amazon-mgm-studios",
     "matchKey": "amazon mgm studios",
-    "file": "icons/amazon-mgm-studios.svg"
+    "file": "icons/north-america/amazon-mgm-studios.svg",
+    "region": "north-america"
   },
   {
     "name": "Lucasfilm",
     "slug": "lucasfilm",
     "matchKey": "lucasfilm",
-    "file": "icons/lucasfilm.svg"
+    "file": "icons/north-america/lucasfilm.svg",
+    "region": "north-america"
   },
   {
     "name": "DreamWorks Animation",
     "slug": "dreamworks-animation",
     "matchKey": "dreamworks animation",
-    "file": "icons/dreamworks-animation.svg"
+    "file": "icons/north-america/dreamworks-animation.svg",
+    "region": "north-america"
   },
   {
     "name": "Lionsgate",
     "slug": "lionsgate",
     "matchKey": "lionsgate",
-    "file": "icons/lionsgate.svg"
+    "file": "icons/north-america/lionsgate.svg",
+    "region": "north-america"
   },
   {
     "name": "A24",
     "slug": "a24",
     "matchKey": "a24",
-    "file": "icons/a24.svg"
+    "file": "icons/north-america/a24.svg",
+    "region": "north-america"
   },
   {
     "name": "Studio Ghibli",
     "slug": "studio-ghibli",
     "matchKey": "studio ghibli",
-    "file": "icons/studio-ghibli.svg"
+    "file": "icons/asia-pacific/studio-ghibli.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "New Line Cinema",
     "slug": "new-line-cinema",
     "matchKey": "new line cinema",
-    "file": "icons/new-line-cinema.svg"
+    "file": "icons/north-america/new-line-cinema.svg",
+    "region": "north-america"
   },
   {
     "name": "Illumination",
     "slug": "illumination",
     "matchKey": "illumination",
-    "file": "icons/illumination.svg"
+    "file": "icons/north-america/illumination.svg",
+    "region": "north-america"
   },
   {
     "name": "Blumhouse Productions",
     "slug": "blumhouse-productions",
     "matchKey": "blumhouse productions",
-    "file": "icons/blumhouse-productions.svg"
+    "file": "icons/north-america/blumhouse-productions.svg",
+    "region": "north-america"
   },
   {
     "name": "Legendary Entertainment",
     "slug": "legendary-entertainment",
     "matchKey": "legendary entertainment",
-    "file": "icons/legendary-entertainment.svg"
+    "file": "icons/north-america/legendary-entertainment.svg",
+    "region": "north-america"
   },
   {
     "name": "Searchlight Pictures",
     "slug": "searchlight-pictures",
     "matchKey": "searchlight pictures",
-    "file": "icons/searchlight-pictures.svg"
+    "file": "icons/north-america/searchlight-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "Focus Features",
     "slug": "focus-features",
     "matchKey": "focus features",
-    "file": "icons/focus-features.svg"
+    "file": "icons/north-america/focus-features.svg",
+    "region": "north-america"
   },
   {
     "name": "Miramax",
     "slug": "miramax",
     "matchKey": "miramax",
-    "file": "icons/miramax.svg"
+    "file": "icons/north-america/miramax.svg",
+    "region": "north-america"
   },
   {
     "name": "Skydance Media",
     "slug": "skydance-media",
     "matchKey": "skydance media",
-    "file": "icons/skydance-media.svg"
+    "file": "icons/north-america/skydance-media.svg",
+    "region": "north-america"
   },
   {
     "name": "BBC",
     "slug": "bbc",
     "matchKey": "bbc",
-    "file": "icons/bbc.svg"
+    "file": "icons/north-america/bbc.svg",
+    "region": "north-america"
   },
   {
     "name": "ABC",
     "slug": "abc",
     "matchKey": "abc",
-    "file": "icons/abc.svg"
+    "file": "icons/north-america/abc.svg",
+    "region": "north-america"
   },
   {
     "name": "FX",
     "slug": "fx",
     "matchKey": "fx",
-    "file": "icons/fx.svg"
+    "file": "icons/uncategorized/fx.svg",
+    "region": "uncategorized"
   },
   {
     "name": "AMC",
     "slug": "amc",
     "matchKey": "amc",
-    "file": "icons/amc.svg"
+    "file": "icons/north-america/amc.svg",
+    "region": "north-america"
   },
   {
     "name": "Village Roadshow Pictures",
     "slug": "village-roadshow-pictures",
     "matchKey": "village roadshow pictures",
-    "file": "icons/village-roadshow-pictures.svg"
+    "file": "icons/asia-pacific/village-roadshow-pictures.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Nickelodeon",
     "slug": "nickelodeon",
     "matchKey": "nickelodeon",
-    "file": "icons/nickelodeon.svg"
+    "file": "icons/north-america/nickelodeon.svg",
+    "region": "north-america"
   },
   {
     "name": "Cartoon Network",
     "slug": "cartoon-network",
     "matchKey": "cartoon network",
-    "file": "icons/cartoon-network.svg"
+    "file": "icons/north-america/cartoon-network.svg",
+    "region": "north-america"
   },
   {
     "name": "Comedy Central",
     "slug": "comedy-central",
     "matchKey": "comedy central",
-    "file": "icons/comedy-central.svg"
+    "file": "icons/north-america/comedy-central.svg",
+    "region": "north-america"
   },
   {
     "name": "National Geographic",
     "slug": "national-geographic",
     "matchKey": "national geographic",
-    "file": "icons/national-geographic.svg"
+    "file": "icons/north-america/national-geographic.svg",
+    "region": "north-america"
   },
   {
     "name": "Discovery",
     "slug": "discovery",
     "matchKey": "discovery",
-    "file": "icons/discovery.svg"
+    "file": "icons/north-america/discovery.svg",
+    "region": "north-america"
   },
   {
     "name": "Aardman Animations",
     "slug": "aardman-animations",
     "matchKey": "aardman animations",
-    "file": "icons/aardman-animations.svg"
+    "file": "icons/europe/aardman-animations.svg",
+    "region": "europe"
   },
   {
     "name": "Laika",
     "slug": "laika",
     "matchKey": "laika",
-    "file": "icons/laika.svg"
+    "file": "icons/north-america/laika.svg",
+    "region": "north-america"
   },
   {
     "name": "STX Entertainment",
     "slug": "stx-entertainment",
     "matchKey": "stx entertainment",
-    "file": "icons/stx-entertainment.svg"
+    "file": "icons/north-america/stx-entertainment.svg",
+    "region": "north-america"
   },
   {
     "name": "StudioCanal",
     "slug": "studiocanal",
     "matchKey": "studiocanal",
-    "file": "icons/studiocanal.svg"
+    "file": "icons/europe/studiocanal.svg",
+    "region": "europe"
   },
   {
     "name": "NEON",
     "slug": "neon",
     "matchKey": "neon",
-    "file": "icons/neon.svg"
+    "file": "icons/north-america/neon.svg",
+    "region": "north-america"
   },
   {
     "name": "Toei Animation",
     "slug": "toei-animation",
     "matchKey": "toei animation",
-    "file": "icons/toei-animation.svg"
+    "file": "icons/asia-pacific/toei-animation.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "MAPPA",
     "slug": "mappa",
     "matchKey": "mappa",
-    "file": "icons/mappa.svg"
+    "file": "icons/asia-pacific/mappa.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "IFC Films",
     "slug": "ifc-films",
     "matchKey": "ifc films",
-    "file": "icons/ifc-films.svg"
+    "file": "icons/north-america/ifc-films.svg",
+    "region": "north-america"
   },
   {
     "name": "Cartoon Saloon",
     "slug": "cartoon-saloon",
     "matchKey": "cartoon saloon",
-    "file": "icons/cartoon-saloon.svg"
+    "file": "icons/europe/cartoon-saloon.svg",
+    "region": "europe"
   },
   {
     "name": "Madhouse",
     "slug": "madhouse",
     "matchKey": "madhouse",
-    "file": "icons/madhouse.svg"
+    "file": "icons/asia-pacific/madhouse.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Kyoto Animation",
     "slug": "kyoto-animation",
     "matchKey": "kyoto animation",
-    "file": "icons/kyoto-animation.svg"
+    "file": "icons/asia-pacific/kyoto-animation.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Magnolia Pictures",
     "slug": "magnolia-pictures",
     "matchKey": "magnolia pictures",
-    "file": "icons/magnolia-pictures.svg"
+    "file": "icons/north-america/magnolia-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "Janus Films",
     "slug": "janus-films",
     "matchKey": "janus films",
-    "file": "icons/janus-films.svg"
+    "file": "icons/north-america/janus-films.svg",
+    "region": "north-america"
   },
   {
     "name": "The Criterion Collection",
     "slug": "the-criterion-collection",
     "matchKey": "the criterion collection",
-    "file": "icons/the-criterion-collection.svg"
+    "file": "icons/north-america/the-criterion-collection.svg",
+    "region": "north-america"
   },
   {
     "name": "Bones",
     "slug": "bones",
     "matchKey": "bones",
-    "file": "icons/bones.svg"
+    "file": "icons/north-america/bones.svg",
+    "region": "north-america"
   },
   {
     "name": "GKIDS",
     "slug": "gkids",
     "matchKey": "gkids",
-    "file": "icons/gkids.svg"
+    "file": "icons/asia-pacific/gkids.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Bleecker Street",
     "slug": "bleecker-street",
     "matchKey": "bleecker street",
-    "file": "icons/bleecker-street.svg"
+    "file": "icons/north-america/bleecker-street.svg",
+    "region": "north-america"
   },
   {
     "name": "Annapurna Pictures",
     "slug": "annapurna-pictures",
     "matchKey": "annapurna pictures",
-    "file": "icons/annapurna-pictures.svg"
+    "file": "icons/north-america/annapurna-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "Production I.G",
     "slug": "production-ig",
     "matchKey": "production i.g",
-    "file": "icons/production-ig.svg"
+    "file": "icons/asia-pacific/production-ig.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Sunrise (Bandai Namco Filmworks)",
     "slug": "sunrise-(bandai-namco-filmworks)",
     "matchKey": "sunrise (bandai namco filmworks)",
-    "file": "icons/sunrise-(bandai-namco-filmworks).svg"
+    "file": "icons/north-america/sunrise-(bandai-namco-filmworks).svg",
+    "region": "north-america"
   },
   {
     "name": "Ufotable",
     "slug": "ufotable",
     "matchKey": "ufotable",
-    "file": "icons/ufotable.svg"
+    "file": "icons/asia-pacific/ufotable.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Wit Studio",
     "slug": "wit-studio",
     "matchKey": "wit studio",
-    "file": "icons/wit-studio.svg"
+    "file": "icons/asia-pacific/wit-studio.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Studio Trigger",
     "slug": "studio-trigger",
     "matchKey": "studio trigger",
-    "file": "icons/studio-trigger.svg"
+    "file": "icons/asia-pacific/studio-trigger.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Science SARU",
     "slug": "science-saru",
     "matchKey": "science saru",
-    "file": "icons/science-saru.svg"
+    "file": "icons/asia-pacific/science-saru.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Roadside Attractions",
     "slug": "roadside-attractions",
     "matchKey": "roadside attractions",
-    "file": "icons/roadside-attractions.svg"
+    "file": "icons/north-america/roadside-attractions.svg",
+    "region": "north-america"
   },
   {
     "name": "Oscilloscope Laboratories",
     "slug": "oscilloscope-laboratories",
     "matchKey": "oscilloscope laboratories",
-    "file": "icons/oscilloscope-laboratories.svg"
+    "file": "icons/north-america/oscilloscope-laboratories.svg",
+    "region": "north-america"
   },
   {
     "name": "Arrow Films",
     "slug": "arrow-films",
     "matchKey": "arrow films",
-    "file": "icons/arrow-films.svg"
+    "file": "icons/north-america/arrow-films.svg",
+    "region": "north-america"
   },
   {
     "name": "Kino Lorber",
     "slug": "kino-lorber",
     "matchKey": "kino lorber",
-    "file": "icons/kino-lorber.svg"
+    "file": "icons/north-america/kino-lorber.svg",
+    "region": "north-america"
   },
   {
     "name": "Gaumont",
     "slug": "gaumont",
     "matchKey": "gaumont",
-    "file": "icons/gaumont.svg"
+    "file": "icons/europe/gaumont.svg",
+    "region": "europe"
   },
   {
     "name": "Pathé",
     "slug": "pathé",
     "matchKey": "path\\u00e9",
-    "file": "icons/pathé.svg"
+    "file": "icons/uncategorized/pathé.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Curzon",
     "slug": "curzon",
     "matchKey": "curzon",
-    "file": "icons/curzon.svg"
+    "file": "icons/europe/curzon.svg",
+    "region": "europe"
   },
   {
     "name": "Wild Bunch",
     "slug": "wild-bunch",
     "matchKey": "wild bunch",
-    "file": "icons/wild-bunch.svg"
+    "file": "icons/uncategorized/wild-bunch.svg",
+    "region": "uncategorized"
   },
   {
     "name": "XYZ Films",
     "slug": "xyz-films",
     "matchKey": "xyz films",
-    "file": "icons/xyz-films.svg"
+    "file": "icons/uncategorized/xyz-films.svg",
+    "region": "uncategorized"
   },
   {
     "name": "FilmNation Entertainment",
     "slug": "filmnation-entertainment",
     "matchKey": "filmnation entertainment",
-    "file": "icons/filmnation-entertainment.svg"
+    "file": "icons/uncategorized/filmnation-entertainment.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Blue Sky Studios",
     "slug": "blue-sky-studios",
     "matchKey": "blue sky studios",
-    "file": "icons/blue-sky-studios.svg"
+    "file": "icons/uncategorized/blue-sky-studios.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Bad Robot",
     "slug": "bad-robot",
     "matchKey": "bad robot",
-    "file": "icons/bad-robot.svg"
+    "file": "icons/north-america/bad-robot.svg",
+    "region": "north-america"
   },
   {
     "name": "Amblin Entertainment",
     "slug": "amblin-entertainment",
     "matchKey": "amblin entertainment",
-    "file": "icons/amblin-entertainment.svg"
+    "file": "icons/north-america/amblin-entertainment.svg",
+    "region": "north-america"
   },
   {
     "name": "Spyglass Media Group",
     "slug": "spyglass-media-group",
     "matchKey": "spyglass media group",
-    "file": "icons/spyglass-media-group.svg"
+    "file": "icons/uncategorized/spyglass-media-group.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Participant",
     "slug": "participant",
     "matchKey": "participant",
-    "file": "icons/participant.svg"
+    "file": "icons/north-america/participant.svg",
+    "region": "north-america"
   },
   {
     "name": "Working Title Films",
     "slug": "working-title-films",
     "matchKey": "working title films",
-    "file": "icons/working-title-films.svg"
+    "file": "icons/north-america/working-title-films.svg",
+    "region": "north-america"
   },
   {
     "name": "Plan B Entertainment",
     "slug": "plan-b-entertainment",
     "matchKey": "plan b entertainment",
-    "file": "icons/plan-b-entertainment.svg"
+    "file": "icons/uncategorized/plan-b-entertainment.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Barrandov Studios",
     "slug": "barrandov-studios",
     "matchKey": "barrandov studios",
-    "file": "icons/barrandov-studios.svg"
+    "file": "icons/europe/barrandov-studios.svg",
+    "region": "europe"
   },
   {
     "name": "Disneynature",
     "slug": "disneynature",
     "matchKey": "disneynature",
-    "file": "icons/disneynature.svg"
+    "file": "icons/uncategorized/disneynature.svg",
+    "region": "uncategorized"
   },
   {
     "name": "Defa",
     "slug": "defa",
     "matchKey": "defa",
-    "file": "icons/defa.svg"
+    "file": "icons/europe/defa.svg",
+    "region": "europe"
   },
   {
     "name": "Rialto Film",
     "slug": "rialto-film",
     "matchKey": "rialto film",
-    "file": "icons/rialto-film.svg"
+    "file": "icons/europe/rialto-film.svg",
+    "region": "europe"
   },
   {
     "name": "Studio Babelsberg",
     "slug": "studio-babelsberg",
     "matchKey": "studio babelsberg",
-    "file": "icons/studio-babelsberg.svg"
+    "file": "icons/europe/studio-babelsberg.svg",
+    "region": "europe"
   },
   {
     "name": "Universum Film Ag",
     "slug": "universum-film-ag",
     "matchKey": "universum film ag",
-    "file": "icons/universum-film-ag.svg"
+    "file": "icons/europe/universum-film-ag.svg",
+    "region": "europe"
   },
   {
     "name": "Pannonia Film Studio",
     "slug": "pannonia-film-studio",
     "matchKey": "pannonia film studio",
-    "file": "icons/pannonia-film-studio.svg"
+    "file": "icons/europe/pannonia-film-studio.svg",
+    "region": "europe"
   },
   {
     "name": "Zagreb Film",
     "slug": "zagreb-film",
     "matchKey": "zagreb film",
-    "file": "icons/zagreb-film.svg"
+    "file": "icons/europe/zagreb-film.svg",
+    "region": "europe"
   },
   {
     "name": "Shanghai Film Group Corporation",
     "slug": "shanghai-film-group-corporation",
     "matchKey": "shanghai film group corporation",
-    "file": "icons/shanghai-film-group-corporation.svg"
+    "file": "icons/asia-pacific/shanghai-film-group-corporation.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Polybona Films",
     "slug": "polybona-films",
     "matchKey": "polybona films",
-    "file": "icons/polybona-films.svg"
+    "file": "icons/asia-pacific/polybona-films.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Mandarin Films",
     "slug": "mandarin-films",
     "matchKey": "mandarin films",
-    "file": "icons/mandarin-films.svg"
+    "file": "icons/asia-pacific/mandarin-films.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Golden Princess Film Production",
     "slug": "golden-princess-film-production",
     "matchKey": "golden princess film production",
-    "file": "icons/golden-princess-film-production.svg"
+    "file": "icons/asia-pacific/golden-princess-film-production.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Village Roadshow",
     "slug": "village-roadshow",
     "matchKey": "village roadshow",
-    "file": "icons/village-roadshow.svg"
+    "file": "icons/asia-pacific/village-roadshow.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "South Australian Film Corporation",
     "slug": "south-australian-film-corporation",
     "matchKey": "south australian film corporation",
-    "file": "icons/south-australian-film-corporation.svg"
+    "file": "icons/asia-pacific/south-australian-film-corporation.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Madman Entertainment",
     "slug": "madman-entertainment",
     "matchKey": "madman entertainment",
-    "file": "icons/madman-entertainment.svg"
+    "file": "icons/asia-pacific/madman-entertainment.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Working Dog Productions",
     "slug": "working-dog-productions",
     "matchKey": "working dog productions",
-    "file": "icons/working-dog-productions.svg"
+    "file": "icons/asia-pacific/working-dog-productions.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Aashirvad Cinemas",
     "slug": "aashirvad-cinemas",
     "matchKey": "aashirvad cinemas",
-    "file": "icons/aashirvad-cinemas.svg"
+    "file": "icons/asia-pacific/aashirvad-cinemas.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Annapurna Studios",
     "slug": "annapurna-studios",
     "matchKey": "annapurna studios",
-    "file": "icons/annapurna-studios.svg"
+    "file": "icons/asia-pacific/annapurna-studios.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Avm Productions",
     "slug": "avm-productions",
     "matchKey": "avm productions",
-    "file": "icons/avm-productions.svg"
+    "file": "icons/asia-pacific/avm-productions.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Bombay Talkies",
     "slug": "bombay-talkies",
     "matchKey": "bombay talkies",
-    "file": "icons/bombay-talkies.svg"
+    "file": "icons/asia-pacific/bombay-talkies.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Excel Entertainment",
     "slug": "excel-entertainment",
     "matchKey": "excel entertainment",
-    "file": "icons/excel-entertainment.svg"
+    "file": "icons/asia-pacific/excel-entertainment.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Hombale Films",
     "slug": "hombale-films",
     "matchKey": "hombale films",
-    "file": "icons/hombale-films.svg"
+    "file": "icons/asia-pacific/hombale-films.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Lyca Productions",
     "slug": "lyca-productions",
     "matchKey": "lyca productions",
-    "file": "icons/lyca-productions.svg"
+    "file": "icons/asia-pacific/lyca-productions.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Madras Talkies",
     "slug": "madras-talkies",
     "matchKey": "madras talkies",
-    "file": "icons/madras-talkies.svg"
+    "file": "icons/asia-pacific/madras-talkies.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "Rajshri Productions",
     "slug": "rajshri-productions",
     "matchKey": "rajshri productions",
-    "file": "icons/rajshri-productions.svg"
+    "file": "icons/asia-pacific/rajshri-productions.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "20th century fox",
     "slug": "20th-century-fox",
     "matchKey": "20th century fox",
-    "file": "icons/20th-century-fox.svg"
+    "file": "icons/north-america/20th-century-fox.svg",
+    "region": "north-america"
   },
   {
     "name": "20th century studios",
     "slug": "20th-century-studios",
     "matchKey": "20th century studios",
-    "file": "icons/20th-century-studios.svg"
+    "file": "icons/uncategorized/20th-century-studios.svg",
+    "region": "uncategorized"
   },
   {
     "name": "72 films",
     "slug": "72-films",
     "matchKey": "72 films",
-    "file": "icons/72-films.svg"
+    "file": "icons/north-america/72-films.svg",
+    "region": "north-america"
   },
   {
     "name": "a24 films",
     "slug": "a24-films",
     "matchKey": "a24 films",
-    "file": "icons/a24-films.svg"
+    "file": "icons/north-america/a24-films.svg",
+    "region": "north-america"
   },
   {
     "name": "aleph media (argentina)",
     "slug": "aleph-media-argentina",
     "matchKey": "aleph media (argentina)",
-    "file": "icons/aleph-media-argentina.svg"
+    "file": "icons/latin-america/aleph-media-argentina.svg",
+    "region": "latin-america"
   },
   {
     "name": "alibaba pictures",
     "slug": "alibaba-pictures",
     "matchKey": "alibaba pictures",
-    "file": "icons/alibaba-pictures.svg"
+    "file": "icons/asia-pacific/alibaba-pictures.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "allied artists pictures",
     "slug": "allied-artists-pictures",
     "matchKey": "allied artists pictures",
-    "file": "icons/allied-artists-pictures.svg"
+    "file": "icons/north-america/allied-artists-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "altitude films",
     "slug": "altitude-films",
     "matchKey": "altitude films",
-    "file": "icons/altitude-films.svg"
+    "file": "icons/north-america/altitude-films.svg",
+    "region": "north-america"
   },
   {
     "name": "american international pictures",
     "slug": "american-international-pictures",
     "matchKey": "american international pictures",
-    "file": "icons/american-international-pictures.svg"
+    "file": "icons/north-america/american-international-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "amicus productions",
     "slug": "amicus-productions",
     "matchKey": "amicus productions",
-    "file": "icons/amicus-productions.svg"
+    "file": "icons/uncategorized/amicus-productions.svg",
+    "region": "uncategorized"
   },
   {
     "name": "ample entertainment",
     "slug": "ample-entertainment",
     "matchKey": "ample entertainment",
-    "file": "icons/ample-entertainment.svg"
+    "file": "icons/uncategorized/ample-entertainment.svg",
+    "region": "uncategorized"
   },
   {
     "name": "anima estudios (mexico)",
     "slug": "anima-estudios-mexico",
     "matchKey": "anima estudios (mexico)",
-    "file": "icons/anima-estudios-mexico.svg"
+    "file": "icons/latin-america/anima-estudios-mexico.svg",
+    "region": "latin-america"
   },
   {
     "name": "anthill studios (nigeria)",
     "slug": "anthill-studios-nigeria",
     "matchKey": "anthill studios (nigeria)",
-    "file": "icons/anthill-studios-nigeria.svg"
+    "file": "icons/middle-east-africa/anthill-studios-nigeria.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "argos comunicaci\\u00f3n (mexico)",
     "slug": "argos-comunicaci-u00f3n-mexico",
     "matchKey": "argos comunicaci\\u00f3n (mexico)",
-    "file": "icons/argos-comunicaci-u00f3n-mexico.svg"
+    "file": "icons/uncategorized/argos-comunicaci-u00f3n-mexico.svg",
+    "region": "uncategorized"
   },
   {
     "name": "arrow video",
     "slug": "arrow-video",
     "matchKey": "arrow video",
-    "file": "icons/arrow-video.svg"
+    "file": "icons/north-america/arrow-video.svg",
+    "region": "north-america"
   },
   {
     "name": "atresmedia cine",
     "slug": "atresmedia-cine",
     "matchKey": "atresmedia cine",
-    "file": "icons/atresmedia-cine.svg"
+    "file": "icons/europe/atresmedia-cine.svg",
+    "region": "europe"
   },
   {
     "name": "bac films",
     "slug": "bac-films",
     "matchKey": "bac films",
-    "file": "icons/bac-films.svg"
+    "file": "icons/europe/bac-films.svg",
+    "region": "europe"
   },
   {
     "name": "balaji motion pictures",
     "slug": "balaji-motion-pictures",
     "matchKey": "balaji motion pictures",
-    "file": "icons/balaji-motion-pictures.svg"
+    "file": "icons/asia-pacific/balaji-motion-pictures.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "barunson e&a",
     "slug": "barunson-e-a",
     "matchKey": "barunson e&a",
-    "file": "icons/barunson-e-a.svg"
+    "file": "icons/asia-pacific/barunson-e-a.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "bavaria film",
     "slug": "bavaria-film",
     "matchKey": "bavaria film",
-    "file": "icons/bavaria-film.svg"
+    "file": "icons/europe/bavaria-film.svg",
+    "region": "europe"
   },
   {
     "name": "bbc film",
     "slug": "bbc-film",
     "matchKey": "bbc film",
-    "file": "icons/bbc-film.svg"
+    "file": "icons/north-america/bbc-film.svg",
+    "region": "north-america"
   },
   {
     "name": "bbc studios documentary unit",
     "slug": "bbc-studios-documentary-unit",
     "matchKey": "bbc studios documentary unit",
-    "file": "icons/bbc-studios-documentary-unit.svg"
+    "file": "icons/north-america/bbc-studios-documentary-unit.svg",
+    "region": "north-america"
   },
   {
     "name": "bento box entertainment",
     "slug": "bento-box-entertainment",
     "matchKey": "bento box entertainment",
-    "file": "icons/bento-box-entertainment.svg"
+    "file": "icons/uncategorized/bento-box-entertainment.svg",
+    "region": "uncategorized"
   },
   {
     "name": "blue underground",
     "slug": "blue-underground",
     "matchKey": "blue underground",
-    "file": "icons/blue-underground.svg"
+    "file": "icons/north-america/blue-underground.svg",
+    "region": "north-america"
   },
   {
     "name": "bona film group",
     "slug": "bona-film-group",
     "matchKey": "bona film group",
-    "file": "icons/bona-film-group.svg"
+    "file": "icons/asia-pacific/bona-film-group.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "canana films (mexico)",
     "slug": "canana-films-mexico",
     "matchKey": "canana films (mexico)",
-    "file": "icons/canana-films-mexico.svg"
+    "file": "icons/latin-america/canana-films-mexico.svg",
+    "region": "latin-america"
   },
   {
     "name": "cannon films",
     "slug": "cannon-films",
     "matchKey": "cannon films",
-    "file": "icons/cannon-films.svg"
+    "file": "icons/north-america/cannon-films.svg",
+    "region": "north-america"
   },
   {
     "name": "carolco pictures",
     "slug": "carolco-pictures",
     "matchKey": "carolco pictures",
-    "file": "icons/carolco-pictures.svg"
+    "file": "icons/north-america/carolco-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "cbs",
     "slug": "cbs",
     "matchKey": "cbs",
-    "file": "icons/cbs.svg"
+    "file": "icons/north-america/cbs.svg",
+    "region": "north-america"
   },
   {
     "name": "china film group",
     "slug": "china-film-group",
     "matchKey": "china film group",
-    "file": "icons/china-film-group.svg"
+    "file": "icons/asia-pacific/china-film-group.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "china star entertainment",
     "slug": "china-star-entertainment",
     "matchKey": "china star entertainment",
-    "file": "icons/china-star-entertainment.svg"
+    "file": "icons/asia-pacific/china-star-entertainment.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "cinecitt\\u00e0 studios",
     "slug": "cinecitt-u00e0-studios",
     "matchKey": "cinecitt\\u00e0 studios",
-    "file": "icons/cinecitt-u00e0-studios.svg"
+    "file": "icons/uncategorized/cinecitt-u00e0-studios.svg",
+    "region": "uncategorized"
   },
   {
     "name": "cinephil",
     "slug": "cinephil",
     "matchKey": "cinephil",
-    "file": "icons/cinephil.svg"
+    "file": "icons/europe/cinephil.svg",
+    "region": "europe"
   },
   {
     "name": "cinerama",
     "slug": "cinerama",
     "matchKey": "cinerama",
-    "file": "icons/cinerama.svg"
+    "file": "icons/uncategorized/cinerama.svg",
+    "region": "uncategorized"
   },
   {
     "name": "cj enm",
     "slug": "cj-enm",
     "matchKey": "cj enm",
-    "file": "icons/cj-enm.svg"
+    "file": "icons/asia-pacific/cj-enm.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "columbia pictures",
     "slug": "columbia-pictures",
     "matchKey": "columbia pictures",
-    "file": "icons/columbia-pictures.svg"
+    "file": "icons/north-america/columbia-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "comix wave films",
     "slug": "comix-wave-films",
     "matchKey": "comix wave films",
-    "file": "icons/comix-wave-films.svg"
+    "file": "icons/asia-pacific/comix-wave-films.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "concordia studio",
     "slug": "concordia-studio",
     "matchKey": "concordia studio",
-    "file": "icons/concordia-studio.svg"
+    "file": "icons/europe/concordia-studio.svg",
+    "region": "europe"
   },
   {
     "name": "conspira\\u00e7\\u00e3o filmes (brazil)",
     "slug": "conspira-u00e7-u00e3o-filmes-brazil",
     "matchKey": "conspira\\u00e7\\u00e3o filmes (brazil)",
-    "file": "icons/conspira-u00e7-u00e3o-filmes-brazil.svg"
+    "file": "icons/uncategorized/conspira-u00e7-u00e3o-filmes-brazil.svg",
+    "region": "uncategorized"
   },
   {
     "name": "constantin film",
     "slug": "constantin-film",
     "matchKey": "constantin film",
-    "file": "icons/constantin-film.svg"
+    "file": "icons/europe/constantin-film.svg",
+    "region": "europe"
   },
   {
     "name": "crunchyroll",
     "slug": "crunchyroll",
     "matchKey": "crunchyroll",
-    "file": "icons/crunchyroll.svg"
+    "file": "icons/uncategorized/crunchyroll.svg",
+    "region": "uncategorized"
   },
   {
     "name": "dark horse entertainment",
     "slug": "dark-horse-entertainment",
     "matchKey": "dark horse entertainment",
-    "file": "icons/dark-horse-entertainment.svg"
+    "file": "icons/north-america/dark-horse-entertainment.svg",
+    "region": "north-america"
   },
   {
     "name": "dcm film distribution",
     "slug": "dcm-film-distribution",
     "matchKey": "dcm film distribution",
-    "file": "icons/dcm-film-distribution.svg"
+    "file": "icons/north-america/dcm-film-distribution.svg",
+    "region": "north-america"
   },
   {
     "name": "de laurentiis entertainment group",
     "slug": "de-laurentiis-entertainment-group",
     "matchKey": "de laurentiis entertainment group",
-    "file": "icons/de-laurentiis-entertainment-group.svg"
+    "file": "icons/north-america/de-laurentiis-entertainment-group.svg",
+    "region": "north-america"
   },
   {
     "name": "dharma productions",
     "slug": "dharma-productions",
     "matchKey": "dharma productions",
-    "file": "icons/dharma-productions.svg"
+    "file": "icons/asia-pacific/dharma-productions.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "dimension films",
     "slug": "dimension-films",
     "matchKey": "dimension films",
-    "file": "icons/dimension-films.svg"
+    "file": "icons/north-america/dimension-films.svg",
+    "region": "north-america"
   },
   {
     "name": "dogwoof",
     "slug": "dogwoof",
     "matchKey": "dogwoof",
-    "file": "icons/dogwoof.svg"
+    "file": "icons/north-america/dogwoof.svg",
+    "region": "north-america"
   },
   {
     "name": "drafthouse films",
     "slug": "drafthouse-films",
     "matchKey": "drafthouse films",
-    "file": "icons/drafthouse-films.svg"
+    "file": "icons/north-america/drafthouse-films.svg",
+    "region": "north-america"
   },
   {
     "name": "dynamo producciones (colombia)",
     "slug": "dynamo-producciones-colombia",
     "matchKey": "dynamo producciones (colombia)",
-    "file": "icons/dynamo-producciones-colombia.svg"
+    "file": "icons/latin-america/dynamo-producciones-colombia.svg",
+    "region": "latin-america"
   },
   {
     "name": "ealing studios",
     "slug": "ealing-studios",
     "matchKey": "ealing studios",
-    "file": "icons/ealing-studios.svg"
+    "file": "icons/north-america/ealing-studios.svg",
+    "region": "north-america"
   },
   {
     "name": "ebonylife films (nigeria)",
     "slug": "ebonylife-films-nigeria",
     "matchKey": "ebonylife films (nigeria)",
-    "file": "icons/ebonylife-films-nigeria.svg"
+    "file": "icons/middle-east-africa/ebonylife-films-nigeria.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "el deseo",
     "slug": "el-deseo",
     "matchKey": "el deseo",
-    "file": "icons/el-deseo.svg"
+    "file": "icons/europe/el-deseo.svg",
+    "region": "europe"
   },
   {
     "name": "embassy pictures",
     "slug": "embassy-pictures",
     "matchKey": "embassy pictures",
-    "file": "icons/embassy-pictures.svg"
+    "file": "icons/north-america/embassy-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "emperor motion pictures",
     "slug": "emperor-motion-pictures",
     "matchKey": "emperor motion pictures",
-    "file": "icons/emperor-motion-pictures.svg"
+    "file": "icons/asia-pacific/emperor-motion-pictures.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "empire pictures",
     "slug": "empire-pictures",
     "matchKey": "empire pictures",
-    "file": "icons/empire-pictures.svg"
+    "file": "icons/north-america/empire-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "enlight media",
     "slug": "enlight-media",
     "matchKey": "enlight media",
-    "file": "icons/enlight-media.svg"
+    "file": "icons/asia-pacific/enlight-media.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "eros international",
     "slug": "eros-international",
     "matchKey": "eros international",
-    "file": "icons/eros-international.svg"
+    "file": "icons/asia-pacific/eros-international.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "espn films",
     "slug": "espn-films",
     "matchKey": "espn films",
-    "file": "icons/espn-films.svg"
+    "file": "icons/north-america/espn-films.svg",
+    "region": "north-america"
   },
   {
     "name": "estudios churubusco (mexico)",
     "slug": "estudios-churubusco-mexico",
     "matchKey": "estudios churubusco (mexico)",
-    "file": "icons/estudios-churubusco-mexico.svg"
+    "file": "icons/latin-america/estudios-churubusco-mexico.svg",
+    "region": "latin-america"
   },
   {
     "name": "europacorp",
     "slug": "europacorp",
     "matchKey": "europacorp",
-    "file": "icons/europacorp.svg"
+    "file": "icons/europe/europacorp.svg",
+    "region": "europe"
   },
   {
     "name": "f\\u00e1bula (chile)",
     "slug": "f-u00e1bula-chile",
     "matchKey": "f\\u00e1bula (chile)",
-    "file": "icons/f-u00e1bula-chile.svg"
+    "file": "icons/uncategorized/f-u00e1bula-chile.svg",
+    "region": "uncategorized"
   },
   {
     "name": "fandango",
     "slug": "fandango",
     "matchKey": "fandango",
-    "file": "icons/fandango.svg"
+    "file": "icons/north-america/fandango.svg",
+    "region": "north-america"
   },
   {
     "name": "film i v\\u00e4st",
     "slug": "film-i-v-u00e4st",
     "matchKey": "film i v\\u00e4st",
-    "file": "icons/film-i-v-u00e4st.svg"
+    "file": "icons/uncategorized/film-i-v-u00e4st.svg",
+    "region": "uncategorized"
   },
   {
     "name": "film4 productions",
     "slug": "film4-productions",
     "matchKey": "film4 productions",
-    "file": "icons/film4-productions.svg"
+    "file": "icons/north-america/film4-productions.svg",
+    "region": "north-america"
   },
   {
     "name": "filmone entertainment (nigeria)",
     "slug": "filmone-entertainment-nigeria",
     "matchKey": "filmone entertainment (nigeria)",
-    "file": "icons/filmone-entertainment-nigeria.svg"
+    "file": "icons/middle-east-africa/filmone-entertainment-nigeria.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "firecrest films",
     "slug": "firecrest-films",
     "matchKey": "firecrest films",
-    "file": "icons/firecrest-films.svg"
+    "file": "icons/north-america/firecrest-films.svg",
+    "region": "north-america"
   },
   {
     "name": "first national pictures",
     "slug": "first-national-pictures",
     "matchKey": "first national pictures",
-    "file": "icons/first-national-pictures.svg"
+    "file": "icons/north-america/first-national-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "florentine films",
     "slug": "florentine-films",
     "matchKey": "florentine films",
-    "file": "icons/florentine-films.svg"
+    "file": "icons/uncategorized/florentine-films.svg",
+    "region": "uncategorized"
   },
   {
     "name": "fox",
     "slug": "fox",
     "matchKey": "fox",
-    "file": "icons/fox.svg"
+    "file": "icons/north-america/fox.svg",
+    "region": "north-america"
   },
   {
     "name": "fremantle documentaries",
     "slug": "fremantle-documentaries",
     "matchKey": "fremantle documentaries",
-    "file": "icons/fremantle-documentaries.svg"
+    "file": "icons/north-america/fremantle-documentaries.svg",
+    "region": "north-america"
   },
   {
     "name": "full moon features",
     "slug": "full-moon-features",
     "matchKey": "full moon features",
-    "file": "icons/full-moon-features.svg"
+    "file": "icons/north-america/full-moon-features.svg",
+    "region": "north-america"
   },
   {
     "name": "gdh 559",
     "slug": "gdh-559",
     "matchKey": "gdh 559",
-    "file": "icons/gdh-559.svg"
+    "file": "icons/asia-pacific/gdh-559.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "ghost house pictures",
     "slug": "ghost-house-pictures",
     "matchKey": "ghost house pictures",
-    "file": "icons/ghost-house-pictures.svg"
+    "file": "icons/uncategorized/ghost-house-pictures.svg",
+    "region": "uncategorized"
   },
   {
     "name": "globo filmes (brazil)",
     "slug": "globo-filmes-brazil",
     "matchKey": "globo filmes (brazil)",
-    "file": "icons/globo-filmes-brazil.svg"
+    "file": "icons/latin-america/globo-filmes-brazil.svg",
+    "region": "latin-america"
   },
   {
     "name": "golden harvest",
     "slug": "golden-harvest",
     "matchKey": "golden harvest",
-    "file": "icons/golden-harvest.svg"
+    "file": "icons/asia-pacific/golden-harvest.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "goldwyn pictures",
     "slug": "goldwyn-pictures",
     "matchKey": "goldwyn pictures",
-    "file": "icons/goldwyn-pictures.svg"
+    "file": "icons/north-america/goldwyn-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "hal roach studios",
     "slug": "hal-roach-studios",
     "matchKey": "hal roach studios",
-    "file": "icons/hal-roach-studios.svg"
+    "file": "icons/north-america/hal-roach-studios.svg",
+    "region": "north-america"
   },
   {
     "name": "hammer film productions",
     "slug": "hammer-film-productions",
     "matchKey": "hammer film productions",
-    "file": "icons/hammer-film-productions.svg"
+    "file": "icons/north-america/hammer-film-productions.svg",
+    "region": "north-america"
   },
   {
     "name": "hbo",
     "slug": "hbo",
     "matchKey": "hbo",
-    "file": "icons/hbo.svg"
+    "file": "icons/north-america/hbo.svg",
+    "region": "north-america"
   },
   {
     "name": "hollywood pictures",
     "slug": "hollywood-pictures",
     "matchKey": "hollywood pictures",
-    "file": "icons/hollywood-pictures.svg"
+    "file": "icons/north-america/hollywood-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "huayi brothers media",
     "slug": "huayi-brothers-media",
     "matchKey": "huayi brothers media",
-    "file": "icons/huayi-brothers-media.svg"
+    "file": "icons/asia-pacific/huayi-brothers-media.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "ifc midnight",
     "slug": "ifc-midnight",
     "matchKey": "ifc midnight",
-    "file": "icons/ifc-midnight.svg"
+    "file": "icons/north-america/ifc-midnight.svg",
+    "region": "north-america"
   },
   {
     "name": "imagine documentaries",
     "slug": "imagine-documentaries",
     "matchKey": "imagine documentaries",
-    "file": "icons/imagine-documentaries.svg"
+    "file": "icons/north-america/imagine-documentaries.svg",
+    "region": "north-america"
   },
   {
     "name": "impact partners",
     "slug": "impact-partners",
     "matchKey": "impact partners",
-    "file": "icons/impact-partners.svg"
+    "file": "icons/north-america/impact-partners.svg",
+    "region": "north-america"
   },
   {
     "name": "indigo film",
     "slug": "indigo-film",
     "matchKey": "indigo film",
-    "file": "icons/indigo-film.svg"
+    "file": "icons/europe/indigo-film.svg",
+    "region": "europe"
   },
   {
     "name": "inkblot productions (nigeria)",
     "slug": "inkblot-productions-nigeria",
     "matchKey": "inkblot productions (nigeria)",
-    "file": "icons/inkblot-productions-nigeria.svg"
+    "file": "icons/middle-east-africa/inkblot-productions-nigeria.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "itvs",
     "slug": "itvs",
     "matchKey": "itvs",
-    "file": "icons/itvs.svg"
+    "file": "icons/north-america/itvs.svg",
+    "region": "north-america"
   },
   {
     "name": "jigsaw productions",
     "slug": "jigsaw-productions",
     "matchKey": "jigsaw productions",
-    "file": "icons/jigsaw-productions.svg"
+    "file": "icons/north-america/jigsaw-productions.svg",
+    "region": "north-america"
   },
   {
     "name": "k&s films (argentina)",
     "slug": "k-s-films-argentina",
     "matchKey": "k&s films (argentina)",
-    "file": "icons/k-s-films-argentina.svg"
+    "file": "icons/latin-america/k-s-films-argentina.svg",
+    "region": "latin-america"
   },
   {
     "name": "kadokawa",
     "slug": "kadokawa",
     "matchKey": "kadokawa",
-    "file": "icons/kadokawa.svg"
+    "file": "icons/asia-pacific/kadokawa.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "kap motion pictures (nigeria)",
     "slug": "kap-motion-pictures-nigeria",
     "matchKey": "kap motion pictures (nigeria)",
-    "file": "icons/kap-motion-pictures-nigeria.svg"
+    "file": "icons/middle-east-africa/kap-motion-pictures-nigeria.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "kartemquin films",
     "slug": "kartemquin-films",
     "matchKey": "kartemquin films",
-    "file": "icons/kartemquin-films.svg"
+    "file": "icons/north-america/kartemquin-films.svg",
+    "region": "north-america"
   },
   {
     "name": "known associates entertainment (south africa)",
     "slug": "known-associates-entertainment-south-africa",
     "matchKey": "known associates entertainment (south africa)",
-    "file": "icons/known-associates-entertainment-south-africa.svg"
+    "file": "icons/middle-east-africa/known-associates-entertainment-south-africa.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "lakeshore entertainment",
     "slug": "lakeshore-entertainment",
     "matchKey": "lakeshore entertainment",
-    "file": "icons/lakeshore-entertainment.svg"
+    "file": "icons/north-america/lakeshore-entertainment.svg",
+    "region": "north-america"
   },
   {
     "name": "le pacte",
     "slug": "le-pacte",
     "matchKey": "le pacte",
-    "file": "icons/le-pacte.svg"
+    "file": "icons/europe/le-pacte.svg",
+    "region": "europe"
   },
   {
     "name": "lemon films (mexico)",
     "slug": "lemon-films-mexico",
     "matchKey": "lemon films (mexico)",
-    "file": "icons/lemon-films-mexico.svg"
+    "file": "icons/latin-america/lemon-films-mexico.svg",
+    "region": "latin-america"
   },
   {
     "name": "lightbox",
     "slug": "lightbox",
     "matchKey": "lightbox",
-    "file": "icons/lightbox.svg"
+    "file": "icons/north-america/lightbox.svg",
+    "region": "north-america"
   },
   {
     "name": "lorimar productions",
     "slug": "lorimar-productions",
     "matchKey": "lorimar productions",
-    "file": "icons/lorimar-productions.svg"
+    "file": "icons/north-america/lorimar-productions.svg",
+    "region": "north-america"
   },
   {
     "name": "lotte entertainment",
     "slug": "lotte-entertainment",
     "matchKey": "lotte entertainment",
-    "file": "icons/lotte-entertainment.svg"
+    "file": "icons/asia-pacific/lotte-entertainment.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "lux vide",
     "slug": "lux-vide",
     "matchKey": "lux vide",
-    "file": "icons/lux-vide.svg"
+    "file": "icons/europe/lux-vide.svg",
+    "region": "europe"
   },
   {
     "name": "magnet releasing",
     "slug": "magnet-releasing",
     "matchKey": "magnet releasing",
-    "file": "icons/magnet-releasing.svg"
+    "file": "icons/north-america/magnet-releasing.svg",
+    "region": "north-america"
   },
   {
     "name": "media asia",
     "slug": "media-asia",
     "matchKey": "media asia",
-    "file": "icons/media-asia.svg"
+    "file": "icons/asia-pacific/media-asia.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "medusa film",
     "slug": "medusa-film",
     "matchKey": "medusa film",
-    "file": "icons/medusa-film.svg"
+    "file": "icons/europe/medusa-film.svg",
+    "region": "europe"
   },
   {
     "name": "memento films",
     "slug": "memento-films",
     "matchKey": "memento films",
-    "file": "icons/memento-films.svg"
+    "file": "icons/europe/memento-films.svg",
+    "region": "europe"
   },
   {
     "name": "metro-goldwyn-mayer (mgm)",
     "slug": "metro-goldwyn-mayer-mgm",
     "matchKey": "metro-goldwyn-mayer (mgm)",
-    "file": "icons/metro-goldwyn-mayer-mgm.svg"
+    "file": "icons/north-america/metro-goldwyn-mayer-mgm.svg",
+    "region": "north-america"
   },
   {
     "name": "milkyway image",
     "slug": "milkyway-image",
     "matchKey": "milkyway image",
-    "file": "icons/milkyway-image.svg"
+    "file": "icons/asia-pacific/milkyway-image.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "mindhouse",
     "slug": "mindhouse",
     "matchKey": "mindhouse",
-    "file": "icons/mindhouse.svg"
+    "file": "icons/north-america/mindhouse.svg",
+    "region": "north-america"
   },
   {
     "name": "miramax films",
     "slug": "miramax-films",
     "matchKey": "miramax films",
-    "file": "icons/miramax-films.svg"
+    "file": "icons/north-america/miramax-films.svg",
+    "region": "north-america"
   },
   {
     "name": "mk2 films",
     "slug": "mk2-films",
     "matchKey": "mk2 films",
-    "file": "icons/mk2-films.svg"
+    "file": "icons/europe/mk2-films.svg",
+    "region": "europe"
   },
   {
     "name": "mm2 entertainment",
     "slug": "mm2-entertainment",
     "matchKey": "mm2 entertainment",
-    "file": "icons/mm2-entertainment.svg"
+    "file": "icons/asia-pacific/mm2-entertainment.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "moholy-nagy film",
     "slug": "moholy-nagy-film",
     "matchKey": "moholy-nagy film",
-    "file": "icons/moholy-nagy-film.svg"
+    "file": "icons/uncategorized/moholy-nagy-film.svg",
+    "region": "uncategorized"
   },
   {
     "name": "monogram pictures",
     "slug": "monogram-pictures",
     "matchKey": "monogram pictures",
-    "file": "icons/monogram-pictures.svg"
+    "file": "icons/north-america/monogram-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "morena films",
     "slug": "morena-films",
     "matchKey": "morena films",
-    "file": "icons/morena-films.svg"
+    "file": "icons/europe/morena-films.svg",
+    "region": "europe"
   },
   {
     "name": "morgan creek productions",
     "slug": "morgan-creek-productions",
     "matchKey": "morgan creek productions",
-    "file": "icons/morgan-creek-productions.svg"
+    "file": "icons/north-america/morgan-creek-productions.svg",
+    "region": "north-america"
   },
   {
     "name": "mosfilm",
     "slug": "mosfilm",
     "matchKey": "mosfilm",
-    "file": "icons/mosfilm.svg"
+    "file": "icons/europe/mosfilm.svg",
+    "region": "europe"
   },
   {
     "name": "mubi",
     "slug": "mubi",
     "matchKey": "mubi",
-    "file": "icons/mubi.svg"
+    "file": "icons/uncategorized/mubi.svg",
+    "region": "uncategorized"
   },
   {
     "name": "national geographic documentary films",
     "slug": "national-geographic-documentary-films",
     "matchKey": "national geographic documentary films",
-    "file": "icons/national-geographic-documentary-films.svg"
+    "file": "icons/north-america/national-geographic-documentary-films.svg",
+    "region": "north-america"
   },
   {
     "name": "nbc",
     "slug": "nbc",
     "matchKey": "nbc",
-    "file": "icons/nbc.svg"
+    "file": "icons/north-america/nbc.svg",
+    "region": "north-america"
   },
   {
     "name": "netflix",
     "slug": "netflix",
     "matchKey": "netflix",
-    "file": "icons/netflix.svg"
+    "file": "icons/north-america/netflix.svg",
+    "region": "north-america"
   },
   {
     "name": "new world pictures",
     "slug": "new-world-pictures",
     "matchKey": "new world pictures",
-    "file": "icons/new-world-pictures.svg"
+    "file": "icons/uncategorized/new-world-pictures.svg",
+    "region": "uncategorized"
   },
   {
     "name": "next entertainment world",
     "slug": "next-entertainment-world",
     "matchKey": "next entertainment world",
-    "file": "icons/next-entertainment-world.svg"
+    "file": "icons/asia-pacific/next-entertainment-world.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "nikkatsu",
     "slug": "nikkatsu",
     "matchKey": "nikkatsu",
-    "file": "icons/nikkatsu.svg"
+    "file": "icons/asia-pacific/nikkatsu.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "nordisk film",
     "slug": "nordisk-film",
     "matchKey": "nordisk film",
-    "file": "icons/nordisk-film.svg"
+    "file": "icons/europe/nordisk-film.svg",
+    "region": "europe"
   },
   {
     "name": "o2 filmes (brazil)",
     "slug": "o2-filmes-brazil",
     "matchKey": "o2 filmes (brazil)",
-    "file": "icons/o2-filmes-brazil.svg"
+    "file": "icons/latin-america/o2-filmes-brazil.svg",
+    "region": "latin-america"
   },
   {
     "name": "orion pictures",
     "slug": "orion-pictures",
     "matchKey": "orion pictures",
-    "file": "icons/orion-pictures.svg"
+    "file": "icons/north-america/orion-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "paramount pictures",
     "slug": "paramount-pictures",
     "matchKey": "paramount pictures",
-    "file": "icons/paramount-pictures.svg"
+    "file": "icons/north-america/paramount-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "paris filmes (brazil)",
     "slug": "paris-filmes-brazil",
     "matchKey": "paris filmes (brazil)",
-    "file": "icons/paris-filmes-brazil.svg"
+    "file": "icons/latin-america/paris-filmes-brazil.svg",
+    "region": "latin-america"
   },
   {
     "name": "participant media",
     "slug": "participant-media",
     "matchKey": "participant media",
-    "file": "icons/participant-media.svg"
+    "file": "icons/north-america/participant-media.svg",
+    "region": "north-america"
   },
   {
     "name": "patagonik film group (argentina)",
     "slug": "patagonik-film-group-argentina",
     "matchKey": "patagonik film group (argentina)",
-    "file": "icons/patagonik-film-group-argentina.svg"
+    "file": "icons/latin-america/patagonik-film-group-argentina.svg",
+    "region": "latin-america"
   },
   {
     "name": "pathe exchange",
     "slug": "pathe-exchange",
     "matchKey": "pathe exchange",
-    "file": "icons/pathe-exchange.svg"
+    "file": "icons/europe/pathe-exchange.svg",
+    "region": "europe"
   },
   {
     "name": "pinewood studios",
     "slug": "pinewood-studios",
     "matchKey": "pinewood studios",
-    "file": "icons/pinewood-studios.svg"
+    "file": "icons/north-america/pinewood-studios.svg",
+    "region": "north-america"
   },
   {
     "name": "pol-ka producciones (argentina)",
     "slug": "pol-ka-producciones-argentina",
     "matchKey": "pol-ka producciones (argentina)",
-    "file": "icons/pol-ka-producciones-argentina.svg"
+    "file": "icons/latin-america/pol-ka-producciones-argentina.svg",
+    "region": "latin-america"
   },
   {
     "name": "polygram filmed entertainment",
     "slug": "polygram-filmed-entertainment",
     "matchKey": "polygram filmed entertainment",
-    "file": "icons/polygram-filmed-entertainment.svg"
+    "file": "icons/north-america/polygram-filmed-entertainment.svg",
+    "region": "north-america"
   },
   {
     "name": "pulse films",
     "slug": "pulse-films",
     "matchKey": "pulse films",
-    "file": "icons/pulse-films.svg"
+    "file": "icons/uncategorized/pulse-films.svg",
+    "region": "uncategorized"
   },
   {
     "name": "quizzical pictures (south africa)",
     "slug": "quizzical-pictures-south-africa",
     "matchKey": "quizzical pictures (south africa)",
-    "file": "icons/quizzical-pictures-south-africa.svg"
+    "file": "icons/middle-east-africa/quizzical-pictures-south-africa.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "rank organisation",
     "slug": "rank-organisation",
     "matchKey": "rank organisation",
-    "file": "icons/rank-organisation.svg"
+    "file": "icons/north-america/rank-organisation.svg",
+    "region": "north-america"
   },
   {
     "name": "raw tv",
     "slug": "raw-tv",
     "matchKey": "raw tv",
-    "file": "icons/raw-tv.svg"
+    "file": "icons/north-america/raw-tv.svg",
+    "region": "north-america"
   },
   {
     "name": "red chillies entertainment",
     "slug": "red-chillies-entertainment",
     "matchKey": "red chillies entertainment",
-    "file": "icons/red-chillies-entertainment.svg"
+    "file": "icons/asia-pacific/red-chillies-entertainment.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "regency enterprises",
     "slug": "regency-enterprises",
     "matchKey": "regency enterprises",
-    "file": "icons/regency-enterprises.svg"
+    "file": "icons/north-america/regency-enterprises.svg",
+    "region": "north-america"
   },
   {
     "name": "reliance entertainment",
     "slug": "reliance-entertainment",
     "matchKey": "reliance entertainment",
-    "file": "icons/reliance-entertainment.svg"
+    "file": "icons/asia-pacific/reliance-entertainment.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "republic pictures",
     "slug": "republic-pictures",
     "matchKey": "republic pictures",
-    "file": "icons/republic-pictures.svg"
+    "file": "icons/north-america/republic-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "rko radio pictures",
     "slug": "rko-radio-pictures",
     "matchKey": "rko radio pictures",
-    "file": "icons/rko-radio-pictures.svg"
+    "file": "icons/north-america/rko-radio-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "sahamongkol film",
     "slug": "sahamongkol-film",
     "matchKey": "sahamongkol film",
-    "file": "icons/sahamongkol-film.svg"
+    "file": "icons/asia-pacific/sahamongkol-film.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "sandbox films",
     "slug": "sandbox-films",
     "matchKey": "sandbox films",
-    "file": "icons/sandbox-films.svg"
+    "file": "icons/north-america/sandbox-films.svg",
+    "region": "north-america"
   },
   {
     "name": "scream factory",
     "slug": "scream-factory",
     "matchKey": "scream factory",
-    "file": "icons/scream-factory.svg"
+    "file": "icons/north-america/scream-factory.svg",
+    "region": "north-america"
   },
   {
     "name": "selznick international pictures",
     "slug": "selznick-international-pictures",
     "matchKey": "selznick international pictures",
-    "file": "icons/selznick-international-pictures.svg"
+    "file": "icons/north-america/selznick-international-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "severin films",
     "slug": "severin-films",
     "matchKey": "severin films",
-    "file": "icons/severin-films.svg"
+    "file": "icons/north-america/severin-films.svg",
+    "region": "north-america"
   },
   {
     "name": "sf studios",
     "slug": "sf-studios",
     "matchKey": "sf studios",
-    "file": "icons/sf-studios.svg"
+    "file": "icons/europe/sf-studios.svg",
+    "region": "europe"
   },
   {
     "name": "shaw brothers",
     "slug": "shaw-brothers",
     "matchKey": "shaw brothers",
-    "file": "icons/shaw-brothers.svg"
+    "file": "icons/asia-pacific/shaw-brothers.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "shochiku",
     "slug": "shochiku",
     "matchKey": "shochiku",
-    "file": "icons/shochiku.svg"
+    "file": "icons/asia-pacific/shochiku.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "shout! factory",
     "slug": "shout-factory",
     "matchKey": "shout! factory",
-    "file": "icons/shout-factory.svg"
+    "file": "icons/uncategorized/shout-factory.svg",
+    "region": "uncategorized"
   },
   {
     "name": "showbox",
     "slug": "showbox",
     "matchKey": "showbox",
-    "file": "icons/showbox.svg"
+    "file": "icons/asia-pacific/showbox.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "showtime",
     "slug": "showtime",
     "matchKey": "showtime",
-    "file": "icons/showtime.svg"
+    "file": "icons/north-america/showtime.svg",
+    "region": "north-america"
   },
   {
     "name": "sony pictures",
     "slug": "sony-pictures",
     "matchKey": "sony pictures",
-    "file": "icons/sony-pictures.svg"
+    "file": "icons/north-america/sony-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "spectrevision",
     "slug": "spectrevision",
     "matchKey": "spectrevision",
-    "file": "icons/spectrevision.svg"
+    "file": "icons/uncategorized/spectrevision.svg",
+    "region": "uncategorized"
   },
   {
     "name": "starz",
     "slug": "starz",
     "matchKey": "starz",
-    "file": "icons/starz.svg"
+    "file": "icons/north-america/starz.svg",
+    "region": "north-america"
   },
   {
     "name": "story films",
     "slug": "story-films",
     "matchKey": "story films",
-    "file": "icons/story-films.svg"
+    "file": "icons/north-america/story-films.svg",
+    "region": "north-america"
   },
   {
     "name": "story syndicate",
     "slug": "story-syndicate",
     "matchKey": "story syndicate",
-    "file": "icons/story-syndicate.svg"
+    "file": "icons/north-america/story-syndicate.svg",
+    "region": "north-america"
   },
   {
     "name": "studio pierrot",
     "slug": "studio-pierrot",
     "matchKey": "studio pierrot",
-    "file": "icons/studio-pierrot.svg"
+    "file": "icons/asia-pacific/studio-pierrot.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "studiocanal uk",
     "slug": "studiocanal-uk",
     "matchKey": "studiocanal uk",
-    "file": "icons/studiocanal-uk.svg"
+    "file": "icons/north-america/studiocanal-uk.svg",
+    "region": "north-america"
   },
   {
     "name": "sunrise",
     "slug": "sunrise",
     "matchKey": "sunrise",
-    "file": "icons/sunrise.svg"
+    "file": "icons/asia-pacific/sunrise.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "svensk filmindustri",
     "slug": "svensk-filmindustri",
     "matchKey": "svensk filmindustri",
-    "file": "icons/svensk-filmindustri.svg"
+    "file": "icons/europe/svensk-filmindustri.svg",
+    "region": "europe"
   },
   {
     "name": "t-series",
     "slug": "t-series",
     "matchKey": "t-series",
-    "file": "icons/t-series.svg"
+    "file": "icons/asia-pacific/t-series.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "telecinco cinema",
     "slug": "telecinco-cinema",
     "matchKey": "telecinco cinema",
-    "file": "icons/telecinco-cinema.svg"
+    "file": "icons/europe/telecinco-cinema.svg",
+    "region": "europe"
   },
   {
     "name": "televisa (mexico)",
     "slug": "televisa-mexico",
     "matchKey": "televisa (mexico)",
-    "file": "icons/televisa-mexico.svg"
+    "file": "icons/latin-america/televisa-mexico.svg",
+    "region": "latin-america"
   },
   {
     "name": "terra mater studios",
     "slug": "terra-mater-studios",
     "matchKey": "terra mater studios",
-    "file": "icons/terra-mater-studios.svg"
+    "file": "icons/uncategorized/terra-mater-studios.svg",
+    "region": "uncategorized"
   },
   {
     "name": "the asylum",
     "slug": "the-asylum",
     "matchKey": "the asylum",
-    "file": "icons/the-asylum.svg"
+    "file": "icons/uncategorized/the-asylum.svg",
+    "region": "uncategorized"
   },
   {
     "name": "the ladd company",
     "slug": "the-ladd-company",
     "matchKey": "the ladd company",
-    "file": "icons/the-ladd-company.svg"
+    "file": "icons/north-america/the-ladd-company.svg",
+    "region": "north-america"
   },
   {
     "name": "this machine",
     "slug": "this-machine",
     "matchKey": "this machine",
-    "file": "icons/this-machine.svg"
+    "file": "icons/north-america/this-machine.svg",
+    "region": "north-america"
   },
   {
     "name": "tiffany pictures",
     "slug": "tiffany-pictures",
     "matchKey": "tiffany pictures",
-    "file": "icons/tiffany-pictures.svg"
+    "file": "icons/north-america/tiffany-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "toei company",
     "slug": "toei-company",
     "matchKey": "toei company",
-    "file": "icons/toei-company.svg"
+    "file": "icons/asia-pacific/toei-company.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "toho",
     "slug": "toho",
     "matchKey": "toho",
-    "file": "icons/toho.svg"
+    "file": "icons/asia-pacific/toho.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "toho co., ltd.",
     "slug": "toho-co-ltd",
     "matchKey": "toho co., ltd.",
-    "file": "icons/toho-co-ltd.svg"
+    "file": "icons/asia-pacific/toho-co-ltd.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "tondero producciones (peru)",
     "slug": "tondero-producciones-peru",
     "matchKey": "tondero producciones (peru)",
-    "file": "icons/tondero-producciones-peru.svg"
+    "file": "icons/latin-america/tondero-producciones-peru.svg",
+    "region": "latin-america"
   },
   {
     "name": "touchstone pictures",
     "slug": "touchstone-pictures",
     "matchKey": "touchstone pictures",
-    "file": "icons/touchstone-pictures.svg"
+    "file": "icons/north-america/touchstone-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "triggerfish animation studios (south africa)",
     "slug": "triggerfish-animation-studios-south-africa",
     "matchKey": "triggerfish animation studios (south africa)",
-    "file": "icons/triggerfish-animation-studios-south-africa.svg"
+    "file": "icons/middle-east-africa/triggerfish-animation-studios-south-africa.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "trilogy films",
     "slug": "trilogy-films",
     "matchKey": "trilogy films",
-    "file": "icons/trilogy-films.svg"
+    "file": "icons/uncategorized/trilogy-films.svg",
+    "region": "uncategorized"
   },
   {
     "name": "tristar pictures",
     "slug": "tristar-pictures",
     "matchKey": "tristar pictures",
-    "file": "icons/tristar-pictures.svg"
+    "file": "icons/north-america/tristar-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "troma entertainment",
     "slug": "troma-entertainment",
     "matchKey": "troma entertainment",
-    "file": "icons/troma-entertainment.svg"
+    "file": "icons/north-america/troma-entertainment.svg",
+    "region": "north-america"
   },
   {
     "name": "trustnordisk",
     "slug": "trustnordisk",
     "matchKey": "trustnordisk",
-    "file": "icons/trustnordisk.svg"
+    "file": "icons/europe/trustnordisk.svg",
+    "region": "europe"
   },
   {
     "name": "twisted pictures",
     "slug": "twisted-pictures",
     "matchKey": "twisted pictures",
-    "file": "icons/twisted-pictures.svg"
+    "file": "icons/north-america/twisted-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "ufa gmbh",
     "slug": "ufa-gmbh",
     "matchKey": "ufa gmbh",
-    "file": "icons/ufa-gmbh.svg"
+    "file": "icons/europe/ufa-gmbh.svg",
+    "region": "europe"
   },
   {
     "name": "united artists",
     "slug": "united-artists",
     "matchKey": "united artists",
-    "file": "icons/united-artists.svg"
+    "file": "icons/uncategorized/united-artists.svg",
+    "region": "uncategorized"
   },
   {
     "name": "vestron pictures",
     "slug": "vestron-pictures",
     "matchKey": "vestron pictures",
-    "file": "icons/vestron-pictures.svg"
+    "file": "icons/north-america/vestron-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "videovision entertainment (south africa)",
     "slug": "videovision-entertainment-south-africa",
     "matchKey": "videovision entertainment (south africa)",
-    "file": "icons/videovision-entertainment-south-africa.svg"
+    "file": "icons/middle-east-africa/videovision-entertainment-south-africa.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "vinegar syndrome",
     "slug": "vinegar-syndrome",
     "matchKey": "vinegar syndrome",
-    "file": "icons/vinegar-syndrome.svg"
+    "file": "icons/north-america/vinegar-syndrome.svg",
+    "region": "north-america"
   },
   {
     "name": "viva films",
     "slug": "viva-films",
     "matchKey": "viva films",
-    "file": "icons/viva-films.svg"
+    "file": "icons/uncategorized/viva-films.svg",
+    "region": "uncategorized"
   },
   {
     "name": "walt disney productions",
     "slug": "walt-disney-productions",
     "matchKey": "walt disney productions",
-    "file": "icons/walt-disney-productions.svg"
+    "file": "icons/north-america/walt-disney-productions.svg",
+    "region": "north-america"
   },
   {
     "name": "wanda pictures",
     "slug": "wanda-pictures",
     "matchKey": "wanda pictures",
-    "file": "icons/wanda-pictures.svg"
+    "file": "icons/asia-pacific/wanda-pictures.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "warner bros. pictures",
     "slug": "warner-bros-pictures",
     "matchKey": "warner bros. pictures",
-    "file": "icons/warner-bros-pictures.svg"
+    "file": "icons/north-america/warner-bros-pictures.svg",
+    "region": "north-america"
   },
   {
     "name": "woodcut media",
     "slug": "woodcut-media",
     "matchKey": "woodcut media",
-    "file": "icons/woodcut-media.svg"
+    "file": "icons/uncategorized/woodcut-media.svg",
+    "region": "uncategorized"
   },
   {
     "name": "x filme creative pool",
     "slug": "x-filme-creative-pool",
     "matchKey": "x filme creative pool",
-    "file": "icons/x-filme-creative-pool.svg"
+    "file": "icons/europe/x-filme-creative-pool.svg",
+    "region": "europe"
   },
   {
     "name": "yash raj films",
     "slug": "yash-raj-films",
     "matchKey": "yash raj films",
-    "file": "icons/yash-raj-films.svg"
+    "file": "icons/asia-pacific/yash-raj-films.svg",
+    "region": "asia-pacific"
   },
   {
     "name": "yellow bird",
     "slug": "yellow-bird",
     "matchKey": "yellow bird",
-    "file": "icons/yellow-bird.svg"
+    "file": "icons/north-america/yellow-bird.svg",
+    "region": "north-america"
   },
   {
     "name": "yellowbone entertainment (south africa)",
     "slug": "yellowbone-entertainment-south-africa",
     "matchKey": "yellowbone entertainment (south africa)",
-    "file": "icons/yellowbone-entertainment-south-africa.svg"
+    "file": "icons/middle-east-africa/yellowbone-entertainment-south-africa.svg",
+    "region": "middle-east-africa"
   },
   {
     "name": "zentropa",
     "slug": "zentropa",
     "matchKey": "zentropa",
-    "file": "icons/zentropa.svg"
+    "file": "icons/europe/zentropa.svg",
+    "region": "europe"
   }
 ]
