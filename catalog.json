@@ -5297,5 +5297,180 @@
     "matchKey": "zag entertainment",
     "file": "icons/uncategorized/zag-entertainment.svg",
     "region": "uncategorized"
+  },
+  {
+    "name": "20Th Television Animation",
+    "slug": "20th-television-animation",
+    "matchKey": "20th television animation",
+    "file": "icons/uncategorized/20th-television-animation.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "3000 Pictures",
+    "slug": "3000-pictures",
+    "matchKey": "3000 pictures",
+    "file": "icons/uncategorized/3000-pictures.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "40 Acres And A Mule Filmworks",
+    "slug": "40-acres-and-a-mule-filmworks",
+    "matchKey": "40 acres and a mule filmworks",
+    "file": "icons/uncategorized/40-acres-and-a-mule-filmworks.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "606 Films",
+    "slug": "606-films",
+    "matchKey": "606 films",
+    "file": "icons/uncategorized/606-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "A Company Filmed Entertainment",
+    "slug": "a-company-filmed-entertainment",
+    "matchKey": "a company filmed entertainment",
+    "file": "icons/uncategorized/a-company-filmed-entertainment.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "A Contracorriente Films",
+    "slug": "a-contracorriente-films",
+    "matchKey": "a contracorriente films",
+    "file": "icons/uncategorized/a-contracorriente-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "A Film Production",
+    "slug": "a-film-production",
+    "matchKey": "a film production",
+    "file": "icons/uncategorized/a-film-production.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Aafa Film",
+    "slug": "aafa-film",
+    "matchKey": "aafa film",
+    "file": "icons/uncategorized/aafa-film.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Ab Svensk Filmindustri",
+    "slug": "ab-svensk-filmindustri",
+    "matchKey": "ab svensk filmindustri",
+    "file": "icons/uncategorized/ab-svensk-filmindustri.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Abc Pictures International",
+    "slug": "abc-pictures-international",
+    "matchKey": "abc pictures international",
+    "file": "icons/uncategorized/abc-pictures-international.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Gaumont Animation",
+    "slug": "gaumont-animation",
+    "matchKey": "gaumont animation",
+    "file": "icons/uncategorized/gaumont-animation.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Gemini Studios",
+    "slug": "gemini-studios",
+    "matchKey": "gemini studios",
+    "file": "icons/uncategorized/gemini-studios.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "General Film Distributors",
+    "slug": "general-film-distributors",
+    "matchKey": "general film distributors",
+    "file": "icons/uncategorized/general-film-distributors.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Gloria Film",
+    "slug": "gloria-film",
+    "matchKey": "gloria film",
+    "file": "icons/uncategorized/gloria-film.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Good Universe",
+    "slug": "good-universe",
+    "matchKey": "good universe",
+    "file": "icons/uncategorized/good-universe.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Groenlandia",
+    "slug": "groenlandia",
+    "matchKey": "groenlandia",
+    "file": "icons/uncategorized/groenlandia.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Guru Studio",
+    "slug": "guru-studio",
+    "matchKey": "guru studio",
+    "file": "icons/uncategorized/guru-studio.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Halas And Batchelor",
+    "slug": "halas-and-batchelor",
+    "matchKey": "halas and batchelor",
+    "file": "icons/uncategorized/halas-and-batchelor.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Hbo Documentary Films",
+    "slug": "hbo-documentary-films",
+    "matchKey": "hbo documentary films",
+    "file": "icons/uncategorized/hbo-documentary-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Illuminated Film Company",
+    "slug": "illuminated-film-company",
+    "matchKey": "illuminated film company",
+    "file": "icons/uncategorized/illuminated-film-company.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Imagine Asia",
+    "slug": "imagine-asia",
+    "matchKey": "imagine asia",
+    "file": "icons/uncategorized/imagine-asia.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Intermedia",
+    "slug": "intermedia",
+    "matchKey": "intermedia",
+    "file": "icons/uncategorized/intermedia.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Kavithalaya Productions",
+    "slug": "kavithalaya-productions",
+    "matchKey": "kavithalaya productions",
+    "file": "icons/uncategorized/kavithalaya-productions.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Keyeast",
+    "slug": "keyeast",
+    "matchKey": "keyeast",
+    "file": "icons/uncategorized/keyeast.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "King Rollo Films",
+    "slug": "king-rollo-films",
+    "matchKey": "king rollo films",
+    "file": "icons/uncategorized/king-rollo-films.svg",
+    "region": "uncategorized"
   }
 ]
