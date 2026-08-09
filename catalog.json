@@ -2343,5 +2343,110 @@
     "matchKey": "castle rock entertainment",
     "file": "icons/north-america/castle-rock-entertainment.svg",
     "region": "north-america"
+  },
+  {
+    "name": "Cinecitta",
+    "slug": "cinecitta",
+    "matchKey": "cinecitta",
+    "file": "icons/europe/cinecitta.svg",
+    "region": "europe"
+  },
+  {
+    "name": "CBS Studios",
+    "slug": "cbs-studios",
+    "matchKey": "cbs studios",
+    "file": "icons/north-america/cbs-studios.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Canal+",
+    "slug": "canal-plus",
+    "matchKey": "canal+",
+    "file": "icons/europe/canal-plus.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Channel 4",
+    "slug": "channel-4",
+    "matchKey": "channel 4",
+    "file": "icons/europe/channel-4.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Amazon Studios",
+    "slug": "amazon-studios",
+    "matchKey": "amazon studios",
+    "file": "icons/north-america/amazon-studios.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "A&E Networks",
+    "slug": "ae-networks",
+    "matchKey": "a&e networks",
+    "file": "icons/north-america/ae-networks.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "BET",
+    "slug": "bet",
+    "matchKey": "bet",
+    "file": "icons/north-america/bet.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Bravo",
+    "slug": "bravo",
+    "matchKey": "bravo",
+    "file": "icons/north-america/bravo.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "ABS-CBN",
+    "slug": "abs-cbn",
+    "matchKey": "abs-cbn",
+    "file": "icons/asia-pacific/abs-cbn.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Centropolis Entertainment",
+    "slug": "centropolis-entertainment",
+    "matchKey": "centropolis entertainment",
+    "file": "icons/north-america/centropolis-entertainment.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "American Zoetrope",
+    "slug": "american-zoetrope",
+    "matchKey": "american zoetrope",
+    "file": "icons/north-america/american-zoetrope.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Animal Logic",
+    "slug": "animal-logic",
+    "matchKey": "animal logic",
+    "file": "icons/asia-pacific/animal-logic.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "British Lion Films",
+    "slug": "british-lion-films",
+    "matchKey": "british lion films",
+    "file": "icons/europe/british-lion-films.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Bron Studios",
+    "slug": "bron-studios",
+    "matchKey": "bron studios",
+    "file": "icons/north-america/bron-studios.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Arclight Films",
+    "slug": "arclight-films",
+    "matchKey": "arclight films",
+    "file": "icons/north-america/arclight-films.svg",
+    "region": "north-america"
   }
 ]
