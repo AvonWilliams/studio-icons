@@ -2658,5 +2658,103 @@
     "matchKey": "open road films",
     "file": "icons/uncategorized/open-road-films.svg",
     "region": "uncategorized"
+  },
+  {
+    "name": "Olm",
+    "slug": "olm",
+    "matchKey": "olm",
+    "file": "icons/uncategorized/olm.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Overture Films",
+    "slug": "overture-films",
+    "matchKey": "overture films",
+    "file": "icons/uncategorized/overture-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Pa Works",
+    "slug": "pa-works",
+    "matchKey": "pa works",
+    "file": "icons/uncategorized/pa-works.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Pacific Data Images",
+    "slug": "pacific-data-images",
+    "matchKey": "pacific data images",
+    "file": "icons/uncategorized/pacific-data-images.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Pantelion Films",
+    "slug": "pantelion-films",
+    "matchKey": "pantelion films",
+    "file": "icons/uncategorized/pantelion-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Pearl Studio",
+    "slug": "pearl-studio",
+    "matchKey": "pearl studio",
+    "file": "icons/uncategorized/pearl-studio.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Polygon Pictures",
+    "slug": "polygon-pictures",
+    "matchKey": "polygon pictures",
+    "file": "icons/uncategorized/polygon-pictures.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Rainbow Spa",
+    "slug": "rainbow-spa",
+    "matchKey": "rainbow spa",
+    "file": "icons/uncategorized/rainbow-spa.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Relativity Media",
+    "slug": "relativity-media",
+    "matchKey": "relativity media",
+    "file": "icons/uncategorized/relativity-media.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Rko Pictures",
+    "slug": "rko-pictures",
+    "matchKey": "rko pictures",
+    "file": "icons/uncategorized/rko-pictures.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Samuel Goldwyn Films",
+    "slug": "samuel-goldwyn-films",
+    "matchKey": "samuel goldwyn films",
+    "file": "icons/uncategorized/samuel-goldwyn-films.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Shemaroo Entertainment",
+    "slug": "shemaroo-entertainment",
+    "matchKey": "shemaroo entertainment",
+    "file": "icons/uncategorized/shemaroo-entertainment.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Sm Entertainment",
+    "slug": "sm-entertainment",
+    "matchKey": "sm entertainment",
+    "file": "icons/uncategorized/sm-entertainment.svg",
+    "region": "uncategorized"
+  },
+  {
+    "name": "Stage 6 Films",
+    "slug": "stage-6-films",
+    "matchKey": "stage 6 films",
+    "file": "icons/uncategorized/stage-6-films.svg",
+    "region": "uncategorized"
   }
 ]
