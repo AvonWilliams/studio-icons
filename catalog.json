@@ -418,5 +418,155 @@
     "slug": "plan-b-entertainment",
     "matchKey": "plan b entertainment",
     "file": "icons/plan-b-entertainment.svg"
+  },
+  {
+    "name": "Barrandov Studios",
+    "slug": "barrandov-studios",
+    "matchKey": "barrandov studios",
+    "file": "icons/barrandov-studios.svg"
+  },
+  {
+    "name": "Disneynature",
+    "slug": "disneynature",
+    "matchKey": "disneynature",
+    "file": "icons/disneynature.svg"
+  },
+  {
+    "name": "Defa",
+    "slug": "defa",
+    "matchKey": "defa",
+    "file": "icons/defa.svg"
+  },
+  {
+    "name": "Rialto Film",
+    "slug": "rialto-film",
+    "matchKey": "rialto film",
+    "file": "icons/rialto-film.svg"
+  },
+  {
+    "name": "Studio Babelsberg",
+    "slug": "studio-babelsberg",
+    "matchKey": "studio babelsberg",
+    "file": "icons/studio-babelsberg.svg"
+  },
+  {
+    "name": "Universum Film Ag",
+    "slug": "universum-film-ag",
+    "matchKey": "universum film ag",
+    "file": "icons/universum-film-ag.svg"
+  },
+  {
+    "name": "Pannonia Film Studio",
+    "slug": "pannonia-film-studio",
+    "matchKey": "pannonia film studio",
+    "file": "icons/pannonia-film-studio.svg"
+  },
+  {
+    "name": "Zagreb Film",
+    "slug": "zagreb-film",
+    "matchKey": "zagreb film",
+    "file": "icons/zagreb-film.svg"
+  },
+  {
+    "name": "Shanghai Film Group Corporation",
+    "slug": "shanghai-film-group-corporation",
+    "matchKey": "shanghai film group corporation",
+    "file": "icons/shanghai-film-group-corporation.svg"
+  },
+  {
+    "name": "Polybona Films",
+    "slug": "polybona-films",
+    "matchKey": "polybona films",
+    "file": "icons/polybona-films.svg"
+  },
+  {
+    "name": "Mandarin Films",
+    "slug": "mandarin-films",
+    "matchKey": "mandarin films",
+    "file": "icons/mandarin-films.svg"
+  },
+  {
+    "name": "Golden Princess Film Production",
+    "slug": "golden-princess-film-production",
+    "matchKey": "golden princess film production",
+    "file": "icons/golden-princess-film-production.svg"
+  },
+  {
+    "name": "Village Roadshow",
+    "slug": "village-roadshow",
+    "matchKey": "village roadshow",
+    "file": "icons/village-roadshow.svg"
+  },
+  {
+    "name": "South Australian Film Corporation",
+    "slug": "south-australian-film-corporation",
+    "matchKey": "south australian film corporation",
+    "file": "icons/south-australian-film-corporation.svg"
+  },
+  {
+    "name": "Madman Entertainment",
+    "slug": "madman-entertainment",
+    "matchKey": "madman entertainment",
+    "file": "icons/madman-entertainment.svg"
+  },
+  {
+    "name": "Working Dog Productions",
+    "slug": "working-dog-productions",
+    "matchKey": "working dog productions",
+    "file": "icons/working-dog-productions.svg"
+  },
+  {
+    "name": "Aashirvad Cinemas",
+    "slug": "aashirvad-cinemas",
+    "matchKey": "aashirvad cinemas",
+    "file": "icons/aashirvad-cinemas.svg"
+  },
+  {
+    "name": "Annapurna Studios",
+    "slug": "annapurna-studios",
+    "matchKey": "annapurna studios",
+    "file": "icons/annapurna-studios.svg"
+  },
+  {
+    "name": "Avm Productions",
+    "slug": "avm-productions",
+    "matchKey": "avm productions",
+    "file": "icons/avm-productions.svg"
+  },
+  {
+    "name": "Bombay Talkies",
+    "slug": "bombay-talkies",
+    "matchKey": "bombay talkies",
+    "file": "icons/bombay-talkies.svg"
+  },
+  {
+    "name": "Excel Entertainment",
+    "slug": "excel-entertainment",
+    "matchKey": "excel entertainment",
+    "file": "icons/excel-entertainment.svg"
+  },
+  {
+    "name": "Hombale Films",
+    "slug": "hombale-films",
+    "matchKey": "hombale films",
+    "file": "icons/hombale-films.svg"
+  },
+  {
+    "name": "Lyca Productions",
+    "slug": "lyca-productions",
+    "matchKey": "lyca productions",
+    "file": "icons/lyca-productions.svg"
+  },
+  {
+    "name": "Madras Talkies",
+    "slug": "madras-talkies",
+    "matchKey": "madras talkies",
+    "file": "icons/madras-talkies.svg"
+  },
+  {
+    "name": "Rajshri Productions",
+    "slug": "rajshri-productions",
+    "matchKey": "rajshri productions",
+    "file": "icons/rajshri-productions.svg"
   }
 ]
