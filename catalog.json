@@ -3155,5 +3155,166 @@
     "matchKey": "warner bros animation",
     "file": "icons/north-america/warner-bros-animation.svg",
     "region": "north-america"
+  },
+  {
+    "name": "Fuji Television",
+    "slug": "fuji-television",
+    "matchKey": "fuji television",
+    "file": "icons/asia-pacific/fuji-television.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Great Wall Film Company",
+    "slug": "great-wall-film-company",
+    "matchKey": "great wall film company",
+    "file": "icons/asia-pacific/great-wall-film-company.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Hengdian World Studios",
+    "slug": "hengdian-world-studios",
+    "matchKey": "hengdian world studios",
+    "file": "icons/asia-pacific/hengdian-world-studios.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Huayi Brothers",
+    "slug": "huayi-brothers",
+    "matchKey": "huayi brothers",
+    "file": "icons/asia-pacific/huayi-brothers.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Kadokawa Pictures",
+    "slug": "kadokawa-pictures",
+    "matchKey": "kadokawa pictures",
+    "file": "icons/asia-pacific/kadokawa-pictures.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Light Chaser Animation Studios",
+    "slug": "light-chaser-animation-studios",
+    "matchKey": "light chaser animation studios",
+    "file": "icons/asia-pacific/light-chaser-animation-studios.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Eagle Pictures",
+    "slug": "eagle-pictures",
+    "matchKey": "eagle pictures",
+    "file": "icons/europe/eagle-pictures.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Eros Films",
+    "slug": "eros-films",
+    "matchKey": "eros films",
+    "file": "icons/europe/eros-films.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Gainsborough Pictures",
+    "slug": "gainsborough-pictures",
+    "matchKey": "gainsborough pictures",
+    "file": "icons/europe/gainsborough-pictures.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Itv Studios",
+    "slug": "itv-studios",
+    "matchKey": "itv studios",
+    "file": "icons/europe/itv-studios.svg",
+    "region": "europe"
+  },
+  {
+    "name": "La Petite Reine",
+    "slug": "la-petite-reine",
+    "matchKey": "la petite reine",
+    "file": "icons/europe/la-petite-reine.svg",
+    "region": "europe"
+  },
+  {
+    "name": "M6",
+    "slug": "m6",
+    "matchKey": "m6",
+    "file": "icons/europe/m6.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Mediaset",
+    "slug": "mediaset",
+    "matchKey": "mediaset",
+    "file": "icons/europe/mediaset.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Melnitsa Animation Studio",
+    "slug": "melnitsa-animation-studio",
+    "matchKey": "melnitsa animation studio",
+    "file": "icons/europe/melnitsa-animation-studio.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Discovery Channel",
+    "slug": "discovery-channel",
+    "matchKey": "discovery channel",
+    "file": "icons/north-america/discovery-channel.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Dreamworks",
+    "slug": "dreamworks",
+    "matchKey": "dreamworks",
+    "file": "icons/north-america/dreamworks.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Film Roman",
+    "slug": "film-roman",
+    "matchKey": "film roman",
+    "file": "icons/north-america/film-roman.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Four Star Productions",
+    "slug": "four-star-productions",
+    "matchKey": "four star productions",
+    "file": "icons/north-america/four-star-productions.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Fox Searchlight Pictures",
+    "slug": "fox-searchlight-pictures",
+    "matchKey": "fox searchlight pictures",
+    "file": "icons/north-america/fox-searchlight-pictures.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Itc Entertainment Productions",
+    "slug": "itc-entertainment-productions",
+    "matchKey": "itc entertainment productions",
+    "file": "icons/north-america/itc-entertainment-productions.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Lantern Entertainment",
+    "slug": "lantern-entertainment",
+    "matchKey": "lantern entertainment",
+    "file": "icons/north-america/lantern-entertainment.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Moonbug Entertainment",
+    "slug": "moonbug-entertainment",
+    "matchKey": "moonbug entertainment",
+    "file": "icons/north-america/moonbug-entertainment.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Mtv Entertainment Studios",
+    "slug": "mtv-entertainment-studios",
+    "matchKey": "mtv entertainment studios",
+    "file": "icons/north-america/mtv-entertainment-studios.svg",
+    "region": "north-america"
   }
 ]
