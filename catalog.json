@@ -3316,5 +3316,103 @@
     "matchKey": "mtv entertainment studios",
     "file": "icons/north-america/mtv-entertainment-studios.svg",
     "region": "north-america"
+  },
+  {
+    "name": "Idn Pictures",
+    "slug": "idn-pictures",
+    "matchKey": "idn pictures",
+    "file": "icons/asia-pacific/idn-pictures.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Kantana Group",
+    "slug": "kantana-group",
+    "matchKey": "kantana group",
+    "file": "icons/asia-pacific/kantana-group.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Kanteerava Studios",
+    "slug": "kanteerava-studios",
+    "matchKey": "kanteerava studios",
+    "file": "icons/asia-pacific/kanteerava-studios.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Kru Studios",
+    "slug": "kru-studios",
+    "matchKey": "kru studios",
+    "file": "icons/asia-pacific/kru-studios.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Lvn Pictures",
+    "slug": "lvn-pictures",
+    "matchKey": "lvn pictures",
+    "file": "icons/asia-pacific/lvn-pictures.svg",
+    "region": "asia-pacific"
+  },
+  {
+    "name": "Herzog Film",
+    "slug": "herzog-film",
+    "matchKey": "herzog film",
+    "file": "icons/europe/herzog-film.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Illumination Studios Paris",
+    "slug": "illumination-studios-paris",
+    "matchKey": "illumination studios paris",
+    "file": "icons/europe/illumination-studios-paris.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Istituto Luce",
+    "slug": "istituto-luce",
+    "matchKey": "istituto luce",
+    "file": "icons/europe/istituto-luce.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Jellyfish Pictures",
+    "slug": "jellyfish-pictures",
+    "matchKey": "jellyfish pictures",
+    "file": "icons/europe/jellyfish-pictures.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Les Films Du Poisson",
+    "slug": "les-films-du-poisson",
+    "matchKey": "les films du poisson",
+    "file": "icons/europe/les-films-du-poisson.svg",
+    "region": "europe"
+  },
+  {
+    "name": "Harman Ising Productions",
+    "slug": "harman-ising-productions",
+    "matchKey": "harman ising productions",
+    "file": "icons/north-america/harman-ising-productions.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Image Entertainment",
+    "slug": "image-entertainment",
+    "matchKey": "image entertainment",
+    "file": "icons/north-america/image-entertainment.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Kalem Company",
+    "slug": "kalem-company",
+    "matchKey": "kalem company",
+    "file": "icons/north-america/kalem-company.svg",
+    "region": "north-america"
+  },
+  {
+    "name": "Kendrick Brothers",
+    "slug": "kendrick-brothers",
+    "matchKey": "kendrick brothers",
+    "file": "icons/north-america/kendrick-brothers.svg",
+    "region": "north-america"
   }
 ]
