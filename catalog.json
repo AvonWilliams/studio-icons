@@ -348,10 +348,10 @@
     "file": "icons/gaumont.svg"
   },
   {
-    "name": "Path\u00e9",
-    "slug": "path\u00e9",
+    "name": "Pathé",
+    "slug": "pathé",
     "matchKey": "path\\u00e9",
-    "file": "icons/path\u00e9.svg"
+    "file": "icons/pathé.svg"
   },
   {
     "name": "Curzon",
@@ -568,5 +568,1181 @@
     "slug": "rajshri-productions",
     "matchKey": "rajshri productions",
     "file": "icons/rajshri-productions.svg"
+  },
+  {
+    "name": "20th century fox",
+    "slug": "20th-century-fox",
+    "matchKey": "20th century fox",
+    "file": "icons/20th-century-fox.svg"
+  },
+  {
+    "name": "20th century studios",
+    "slug": "20th-century-studios",
+    "matchKey": "20th century studios",
+    "file": "icons/20th-century-studios.svg"
+  },
+  {
+    "name": "72 films",
+    "slug": "72-films",
+    "matchKey": "72 films",
+    "file": "icons/72-films.svg"
+  },
+  {
+    "name": "a24 films",
+    "slug": "a24-films",
+    "matchKey": "a24 films",
+    "file": "icons/a24-films.svg"
+  },
+  {
+    "name": "aleph media (argentina)",
+    "slug": "aleph-media-argentina",
+    "matchKey": "aleph media (argentina)",
+    "file": "icons/aleph-media-argentina.svg"
+  },
+  {
+    "name": "alibaba pictures",
+    "slug": "alibaba-pictures",
+    "matchKey": "alibaba pictures",
+    "file": "icons/alibaba-pictures.svg"
+  },
+  {
+    "name": "allied artists pictures",
+    "slug": "allied-artists-pictures",
+    "matchKey": "allied artists pictures",
+    "file": "icons/allied-artists-pictures.svg"
+  },
+  {
+    "name": "altitude films",
+    "slug": "altitude-films",
+    "matchKey": "altitude films",
+    "file": "icons/altitude-films.svg"
+  },
+  {
+    "name": "american international pictures",
+    "slug": "american-international-pictures",
+    "matchKey": "american international pictures",
+    "file": "icons/american-international-pictures.svg"
+  },
+  {
+    "name": "amicus productions",
+    "slug": "amicus-productions",
+    "matchKey": "amicus productions",
+    "file": "icons/amicus-productions.svg"
+  },
+  {
+    "name": "ample entertainment",
+    "slug": "ample-entertainment",
+    "matchKey": "ample entertainment",
+    "file": "icons/ample-entertainment.svg"
+  },
+  {
+    "name": "anima estudios (mexico)",
+    "slug": "anima-estudios-mexico",
+    "matchKey": "anima estudios (mexico)",
+    "file": "icons/anima-estudios-mexico.svg"
+  },
+  {
+    "name": "anthill studios (nigeria)",
+    "slug": "anthill-studios-nigeria",
+    "matchKey": "anthill studios (nigeria)",
+    "file": "icons/anthill-studios-nigeria.svg"
+  },
+  {
+    "name": "argos comunicaci\\u00f3n (mexico)",
+    "slug": "argos-comunicaci-u00f3n-mexico",
+    "matchKey": "argos comunicaci\\u00f3n (mexico)",
+    "file": "icons/argos-comunicaci-u00f3n-mexico.svg"
+  },
+  {
+    "name": "arrow video",
+    "slug": "arrow-video",
+    "matchKey": "arrow video",
+    "file": "icons/arrow-video.svg"
+  },
+  {
+    "name": "atresmedia cine",
+    "slug": "atresmedia-cine",
+    "matchKey": "atresmedia cine",
+    "file": "icons/atresmedia-cine.svg"
+  },
+  {
+    "name": "bac films",
+    "slug": "bac-films",
+    "matchKey": "bac films",
+    "file": "icons/bac-films.svg"
+  },
+  {
+    "name": "balaji motion pictures",
+    "slug": "balaji-motion-pictures",
+    "matchKey": "balaji motion pictures",
+    "file": "icons/balaji-motion-pictures.svg"
+  },
+  {
+    "name": "barunson e&a",
+    "slug": "barunson-e-a",
+    "matchKey": "barunson e&a",
+    "file": "icons/barunson-e-a.svg"
+  },
+  {
+    "name": "bavaria film",
+    "slug": "bavaria-film",
+    "matchKey": "bavaria film",
+    "file": "icons/bavaria-film.svg"
+  },
+  {
+    "name": "bbc film",
+    "slug": "bbc-film",
+    "matchKey": "bbc film",
+    "file": "icons/bbc-film.svg"
+  },
+  {
+    "name": "bbc studios documentary unit",
+    "slug": "bbc-studios-documentary-unit",
+    "matchKey": "bbc studios documentary unit",
+    "file": "icons/bbc-studios-documentary-unit.svg"
+  },
+  {
+    "name": "bento box entertainment",
+    "slug": "bento-box-entertainment",
+    "matchKey": "bento box entertainment",
+    "file": "icons/bento-box-entertainment.svg"
+  },
+  {
+    "name": "blue underground",
+    "slug": "blue-underground",
+    "matchKey": "blue underground",
+    "file": "icons/blue-underground.svg"
+  },
+  {
+    "name": "bona film group",
+    "slug": "bona-film-group",
+    "matchKey": "bona film group",
+    "file": "icons/bona-film-group.svg"
+  },
+  {
+    "name": "canana films (mexico)",
+    "slug": "canana-films-mexico",
+    "matchKey": "canana films (mexico)",
+    "file": "icons/canana-films-mexico.svg"
+  },
+  {
+    "name": "cannon films",
+    "slug": "cannon-films",
+    "matchKey": "cannon films",
+    "file": "icons/cannon-films.svg"
+  },
+  {
+    "name": "carolco pictures",
+    "slug": "carolco-pictures",
+    "matchKey": "carolco pictures",
+    "file": "icons/carolco-pictures.svg"
+  },
+  {
+    "name": "cbs",
+    "slug": "cbs",
+    "matchKey": "cbs",
+    "file": "icons/cbs.svg"
+  },
+  {
+    "name": "china film group",
+    "slug": "china-film-group",
+    "matchKey": "china film group",
+    "file": "icons/china-film-group.svg"
+  },
+  {
+    "name": "china star entertainment",
+    "slug": "china-star-entertainment",
+    "matchKey": "china star entertainment",
+    "file": "icons/china-star-entertainment.svg"
+  },
+  {
+    "name": "cinecitt\\u00e0 studios",
+    "slug": "cinecitt-u00e0-studios",
+    "matchKey": "cinecitt\\u00e0 studios",
+    "file": "icons/cinecitt-u00e0-studios.svg"
+  },
+  {
+    "name": "cinephil",
+    "slug": "cinephil",
+    "matchKey": "cinephil",
+    "file": "icons/cinephil.svg"
+  },
+  {
+    "name": "cinerama",
+    "slug": "cinerama",
+    "matchKey": "cinerama",
+    "file": "icons/cinerama.svg"
+  },
+  {
+    "name": "cj enm",
+    "slug": "cj-enm",
+    "matchKey": "cj enm",
+    "file": "icons/cj-enm.svg"
+  },
+  {
+    "name": "columbia pictures",
+    "slug": "columbia-pictures",
+    "matchKey": "columbia pictures",
+    "file": "icons/columbia-pictures.svg"
+  },
+  {
+    "name": "comix wave films",
+    "slug": "comix-wave-films",
+    "matchKey": "comix wave films",
+    "file": "icons/comix-wave-films.svg"
+  },
+  {
+    "name": "concordia studio",
+    "slug": "concordia-studio",
+    "matchKey": "concordia studio",
+    "file": "icons/concordia-studio.svg"
+  },
+  {
+    "name": "conspira\\u00e7\\u00e3o filmes (brazil)",
+    "slug": "conspira-u00e7-u00e3o-filmes-brazil",
+    "matchKey": "conspira\\u00e7\\u00e3o filmes (brazil)",
+    "file": "icons/conspira-u00e7-u00e3o-filmes-brazil.svg"
+  },
+  {
+    "name": "constantin film",
+    "slug": "constantin-film",
+    "matchKey": "constantin film",
+    "file": "icons/constantin-film.svg"
+  },
+  {
+    "name": "crunchyroll",
+    "slug": "crunchyroll",
+    "matchKey": "crunchyroll",
+    "file": "icons/crunchyroll.svg"
+  },
+  {
+    "name": "dark horse entertainment",
+    "slug": "dark-horse-entertainment",
+    "matchKey": "dark horse entertainment",
+    "file": "icons/dark-horse-entertainment.svg"
+  },
+  {
+    "name": "dcm film distribution",
+    "slug": "dcm-film-distribution",
+    "matchKey": "dcm film distribution",
+    "file": "icons/dcm-film-distribution.svg"
+  },
+  {
+    "name": "de laurentiis entertainment group",
+    "slug": "de-laurentiis-entertainment-group",
+    "matchKey": "de laurentiis entertainment group",
+    "file": "icons/de-laurentiis-entertainment-group.svg"
+  },
+  {
+    "name": "dharma productions",
+    "slug": "dharma-productions",
+    "matchKey": "dharma productions",
+    "file": "icons/dharma-productions.svg"
+  },
+  {
+    "name": "dimension films",
+    "slug": "dimension-films",
+    "matchKey": "dimension films",
+    "file": "icons/dimension-films.svg"
+  },
+  {
+    "name": "dogwoof",
+    "slug": "dogwoof",
+    "matchKey": "dogwoof",
+    "file": "icons/dogwoof.svg"
+  },
+  {
+    "name": "drafthouse films",
+    "slug": "drafthouse-films",
+    "matchKey": "drafthouse films",
+    "file": "icons/drafthouse-films.svg"
+  },
+  {
+    "name": "dynamo producciones (colombia)",
+    "slug": "dynamo-producciones-colombia",
+    "matchKey": "dynamo producciones (colombia)",
+    "file": "icons/dynamo-producciones-colombia.svg"
+  },
+  {
+    "name": "ealing studios",
+    "slug": "ealing-studios",
+    "matchKey": "ealing studios",
+    "file": "icons/ealing-studios.svg"
+  },
+  {
+    "name": "ebonylife films (nigeria)",
+    "slug": "ebonylife-films-nigeria",
+    "matchKey": "ebonylife films (nigeria)",
+    "file": "icons/ebonylife-films-nigeria.svg"
+  },
+  {
+    "name": "el deseo",
+    "slug": "el-deseo",
+    "matchKey": "el deseo",
+    "file": "icons/el-deseo.svg"
+  },
+  {
+    "name": "embassy pictures",
+    "slug": "embassy-pictures",
+    "matchKey": "embassy pictures",
+    "file": "icons/embassy-pictures.svg"
+  },
+  {
+    "name": "emperor motion pictures",
+    "slug": "emperor-motion-pictures",
+    "matchKey": "emperor motion pictures",
+    "file": "icons/emperor-motion-pictures.svg"
+  },
+  {
+    "name": "empire pictures",
+    "slug": "empire-pictures",
+    "matchKey": "empire pictures",
+    "file": "icons/empire-pictures.svg"
+  },
+  {
+    "name": "enlight media",
+    "slug": "enlight-media",
+    "matchKey": "enlight media",
+    "file": "icons/enlight-media.svg"
+  },
+  {
+    "name": "eros international",
+    "slug": "eros-international",
+    "matchKey": "eros international",
+    "file": "icons/eros-international.svg"
+  },
+  {
+    "name": "espn films",
+    "slug": "espn-films",
+    "matchKey": "espn films",
+    "file": "icons/espn-films.svg"
+  },
+  {
+    "name": "estudios churubusco (mexico)",
+    "slug": "estudios-churubusco-mexico",
+    "matchKey": "estudios churubusco (mexico)",
+    "file": "icons/estudios-churubusco-mexico.svg"
+  },
+  {
+    "name": "europacorp",
+    "slug": "europacorp",
+    "matchKey": "europacorp",
+    "file": "icons/europacorp.svg"
+  },
+  {
+    "name": "f\\u00e1bula (chile)",
+    "slug": "f-u00e1bula-chile",
+    "matchKey": "f\\u00e1bula (chile)",
+    "file": "icons/f-u00e1bula-chile.svg"
+  },
+  {
+    "name": "fandango",
+    "slug": "fandango",
+    "matchKey": "fandango",
+    "file": "icons/fandango.svg"
+  },
+  {
+    "name": "film i v\\u00e4st",
+    "slug": "film-i-v-u00e4st",
+    "matchKey": "film i v\\u00e4st",
+    "file": "icons/film-i-v-u00e4st.svg"
+  },
+  {
+    "name": "film4 productions",
+    "slug": "film4-productions",
+    "matchKey": "film4 productions",
+    "file": "icons/film4-productions.svg"
+  },
+  {
+    "name": "filmone entertainment (nigeria)",
+    "slug": "filmone-entertainment-nigeria",
+    "matchKey": "filmone entertainment (nigeria)",
+    "file": "icons/filmone-entertainment-nigeria.svg"
+  },
+  {
+    "name": "firecrest films",
+    "slug": "firecrest-films",
+    "matchKey": "firecrest films",
+    "file": "icons/firecrest-films.svg"
+  },
+  {
+    "name": "first national pictures",
+    "slug": "first-national-pictures",
+    "matchKey": "first national pictures",
+    "file": "icons/first-national-pictures.svg"
+  },
+  {
+    "name": "florentine films",
+    "slug": "florentine-films",
+    "matchKey": "florentine films",
+    "file": "icons/florentine-films.svg"
+  },
+  {
+    "name": "fox",
+    "slug": "fox",
+    "matchKey": "fox",
+    "file": "icons/fox.svg"
+  },
+  {
+    "name": "fremantle documentaries",
+    "slug": "fremantle-documentaries",
+    "matchKey": "fremantle documentaries",
+    "file": "icons/fremantle-documentaries.svg"
+  },
+  {
+    "name": "full moon features",
+    "slug": "full-moon-features",
+    "matchKey": "full moon features",
+    "file": "icons/full-moon-features.svg"
+  },
+  {
+    "name": "gdh 559",
+    "slug": "gdh-559",
+    "matchKey": "gdh 559",
+    "file": "icons/gdh-559.svg"
+  },
+  {
+    "name": "ghost house pictures",
+    "slug": "ghost-house-pictures",
+    "matchKey": "ghost house pictures",
+    "file": "icons/ghost-house-pictures.svg"
+  },
+  {
+    "name": "globo filmes (brazil)",
+    "slug": "globo-filmes-brazil",
+    "matchKey": "globo filmes (brazil)",
+    "file": "icons/globo-filmes-brazil.svg"
+  },
+  {
+    "name": "golden harvest",
+    "slug": "golden-harvest",
+    "matchKey": "golden harvest",
+    "file": "icons/golden-harvest.svg"
+  },
+  {
+    "name": "goldwyn pictures",
+    "slug": "goldwyn-pictures",
+    "matchKey": "goldwyn pictures",
+    "file": "icons/goldwyn-pictures.svg"
+  },
+  {
+    "name": "hal roach studios",
+    "slug": "hal-roach-studios",
+    "matchKey": "hal roach studios",
+    "file": "icons/hal-roach-studios.svg"
+  },
+  {
+    "name": "hammer film productions",
+    "slug": "hammer-film-productions",
+    "matchKey": "hammer film productions",
+    "file": "icons/hammer-film-productions.svg"
+  },
+  {
+    "name": "hbo",
+    "slug": "hbo",
+    "matchKey": "hbo",
+    "file": "icons/hbo.svg"
+  },
+  {
+    "name": "hollywood pictures",
+    "slug": "hollywood-pictures",
+    "matchKey": "hollywood pictures",
+    "file": "icons/hollywood-pictures.svg"
+  },
+  {
+    "name": "huayi brothers media",
+    "slug": "huayi-brothers-media",
+    "matchKey": "huayi brothers media",
+    "file": "icons/huayi-brothers-media.svg"
+  },
+  {
+    "name": "ifc midnight",
+    "slug": "ifc-midnight",
+    "matchKey": "ifc midnight",
+    "file": "icons/ifc-midnight.svg"
+  },
+  {
+    "name": "imagine documentaries",
+    "slug": "imagine-documentaries",
+    "matchKey": "imagine documentaries",
+    "file": "icons/imagine-documentaries.svg"
+  },
+  {
+    "name": "impact partners",
+    "slug": "impact-partners",
+    "matchKey": "impact partners",
+    "file": "icons/impact-partners.svg"
+  },
+  {
+    "name": "indigo film",
+    "slug": "indigo-film",
+    "matchKey": "indigo film",
+    "file": "icons/indigo-film.svg"
+  },
+  {
+    "name": "inkblot productions (nigeria)",
+    "slug": "inkblot-productions-nigeria",
+    "matchKey": "inkblot productions (nigeria)",
+    "file": "icons/inkblot-productions-nigeria.svg"
+  },
+  {
+    "name": "itvs",
+    "slug": "itvs",
+    "matchKey": "itvs",
+    "file": "icons/itvs.svg"
+  },
+  {
+    "name": "jigsaw productions",
+    "slug": "jigsaw-productions",
+    "matchKey": "jigsaw productions",
+    "file": "icons/jigsaw-productions.svg"
+  },
+  {
+    "name": "k&s films (argentina)",
+    "slug": "k-s-films-argentina",
+    "matchKey": "k&s films (argentina)",
+    "file": "icons/k-s-films-argentina.svg"
+  },
+  {
+    "name": "kadokawa",
+    "slug": "kadokawa",
+    "matchKey": "kadokawa",
+    "file": "icons/kadokawa.svg"
+  },
+  {
+    "name": "kap motion pictures (nigeria)",
+    "slug": "kap-motion-pictures-nigeria",
+    "matchKey": "kap motion pictures (nigeria)",
+    "file": "icons/kap-motion-pictures-nigeria.svg"
+  },
+  {
+    "name": "kartemquin films",
+    "slug": "kartemquin-films",
+    "matchKey": "kartemquin films",
+    "file": "icons/kartemquin-films.svg"
+  },
+  {
+    "name": "known associates entertainment (south africa)",
+    "slug": "known-associates-entertainment-south-africa",
+    "matchKey": "known associates entertainment (south africa)",
+    "file": "icons/known-associates-entertainment-south-africa.svg"
+  },
+  {
+    "name": "lakeshore entertainment",
+    "slug": "lakeshore-entertainment",
+    "matchKey": "lakeshore entertainment",
+    "file": "icons/lakeshore-entertainment.svg"
+  },
+  {
+    "name": "le pacte",
+    "slug": "le-pacte",
+    "matchKey": "le pacte",
+    "file": "icons/le-pacte.svg"
+  },
+  {
+    "name": "lemon films (mexico)",
+    "slug": "lemon-films-mexico",
+    "matchKey": "lemon films (mexico)",
+    "file": "icons/lemon-films-mexico.svg"
+  },
+  {
+    "name": "lightbox",
+    "slug": "lightbox",
+    "matchKey": "lightbox",
+    "file": "icons/lightbox.svg"
+  },
+  {
+    "name": "lorimar productions",
+    "slug": "lorimar-productions",
+    "matchKey": "lorimar productions",
+    "file": "icons/lorimar-productions.svg"
+  },
+  {
+    "name": "lotte entertainment",
+    "slug": "lotte-entertainment",
+    "matchKey": "lotte entertainment",
+    "file": "icons/lotte-entertainment.svg"
+  },
+  {
+    "name": "lux vide",
+    "slug": "lux-vide",
+    "matchKey": "lux vide",
+    "file": "icons/lux-vide.svg"
+  },
+  {
+    "name": "magnet releasing",
+    "slug": "magnet-releasing",
+    "matchKey": "magnet releasing",
+    "file": "icons/magnet-releasing.svg"
+  },
+  {
+    "name": "media asia",
+    "slug": "media-asia",
+    "matchKey": "media asia",
+    "file": "icons/media-asia.svg"
+  },
+  {
+    "name": "medusa film",
+    "slug": "medusa-film",
+    "matchKey": "medusa film",
+    "file": "icons/medusa-film.svg"
+  },
+  {
+    "name": "memento films",
+    "slug": "memento-films",
+    "matchKey": "memento films",
+    "file": "icons/memento-films.svg"
+  },
+  {
+    "name": "metro-goldwyn-mayer (mgm)",
+    "slug": "metro-goldwyn-mayer-mgm",
+    "matchKey": "metro-goldwyn-mayer (mgm)",
+    "file": "icons/metro-goldwyn-mayer-mgm.svg"
+  },
+  {
+    "name": "milkyway image",
+    "slug": "milkyway-image",
+    "matchKey": "milkyway image",
+    "file": "icons/milkyway-image.svg"
+  },
+  {
+    "name": "mindhouse",
+    "slug": "mindhouse",
+    "matchKey": "mindhouse",
+    "file": "icons/mindhouse.svg"
+  },
+  {
+    "name": "miramax films",
+    "slug": "miramax-films",
+    "matchKey": "miramax films",
+    "file": "icons/miramax-films.svg"
+  },
+  {
+    "name": "mk2 films",
+    "slug": "mk2-films",
+    "matchKey": "mk2 films",
+    "file": "icons/mk2-films.svg"
+  },
+  {
+    "name": "mm2 entertainment",
+    "slug": "mm2-entertainment",
+    "matchKey": "mm2 entertainment",
+    "file": "icons/mm2-entertainment.svg"
+  },
+  {
+    "name": "moholy-nagy film",
+    "slug": "moholy-nagy-film",
+    "matchKey": "moholy-nagy film",
+    "file": "icons/moholy-nagy-film.svg"
+  },
+  {
+    "name": "monogram pictures",
+    "slug": "monogram-pictures",
+    "matchKey": "monogram pictures",
+    "file": "icons/monogram-pictures.svg"
+  },
+  {
+    "name": "morena films",
+    "slug": "morena-films",
+    "matchKey": "morena films",
+    "file": "icons/morena-films.svg"
+  },
+  {
+    "name": "morgan creek productions",
+    "slug": "morgan-creek-productions",
+    "matchKey": "morgan creek productions",
+    "file": "icons/morgan-creek-productions.svg"
+  },
+  {
+    "name": "mosfilm",
+    "slug": "mosfilm",
+    "matchKey": "mosfilm",
+    "file": "icons/mosfilm.svg"
+  },
+  {
+    "name": "mubi",
+    "slug": "mubi",
+    "matchKey": "mubi",
+    "file": "icons/mubi.svg"
+  },
+  {
+    "name": "national geographic documentary films",
+    "slug": "national-geographic-documentary-films",
+    "matchKey": "national geographic documentary films",
+    "file": "icons/national-geographic-documentary-films.svg"
+  },
+  {
+    "name": "nbc",
+    "slug": "nbc",
+    "matchKey": "nbc",
+    "file": "icons/nbc.svg"
+  },
+  {
+    "name": "netflix",
+    "slug": "netflix",
+    "matchKey": "netflix",
+    "file": "icons/netflix.svg"
+  },
+  {
+    "name": "new world pictures",
+    "slug": "new-world-pictures",
+    "matchKey": "new world pictures",
+    "file": "icons/new-world-pictures.svg"
+  },
+  {
+    "name": "next entertainment world",
+    "slug": "next-entertainment-world",
+    "matchKey": "next entertainment world",
+    "file": "icons/next-entertainment-world.svg"
+  },
+  {
+    "name": "nikkatsu",
+    "slug": "nikkatsu",
+    "matchKey": "nikkatsu",
+    "file": "icons/nikkatsu.svg"
+  },
+  {
+    "name": "nordisk film",
+    "slug": "nordisk-film",
+    "matchKey": "nordisk film",
+    "file": "icons/nordisk-film.svg"
+  },
+  {
+    "name": "o2 filmes (brazil)",
+    "slug": "o2-filmes-brazil",
+    "matchKey": "o2 filmes (brazil)",
+    "file": "icons/o2-filmes-brazil.svg"
+  },
+  {
+    "name": "orion pictures",
+    "slug": "orion-pictures",
+    "matchKey": "orion pictures",
+    "file": "icons/orion-pictures.svg"
+  },
+  {
+    "name": "paramount pictures",
+    "slug": "paramount-pictures",
+    "matchKey": "paramount pictures",
+    "file": "icons/paramount-pictures.svg"
+  },
+  {
+    "name": "paris filmes (brazil)",
+    "slug": "paris-filmes-brazil",
+    "matchKey": "paris filmes (brazil)",
+    "file": "icons/paris-filmes-brazil.svg"
+  },
+  {
+    "name": "participant media",
+    "slug": "participant-media",
+    "matchKey": "participant media",
+    "file": "icons/participant-media.svg"
+  },
+  {
+    "name": "patagonik film group (argentina)",
+    "slug": "patagonik-film-group-argentina",
+    "matchKey": "patagonik film group (argentina)",
+    "file": "icons/patagonik-film-group-argentina.svg"
+  },
+  {
+    "name": "pathe exchange",
+    "slug": "pathe-exchange",
+    "matchKey": "pathe exchange",
+    "file": "icons/pathe-exchange.svg"
+  },
+  {
+    "name": "pinewood studios",
+    "slug": "pinewood-studios",
+    "matchKey": "pinewood studios",
+    "file": "icons/pinewood-studios.svg"
+  },
+  {
+    "name": "pol-ka producciones (argentina)",
+    "slug": "pol-ka-producciones-argentina",
+    "matchKey": "pol-ka producciones (argentina)",
+    "file": "icons/pol-ka-producciones-argentina.svg"
+  },
+  {
+    "name": "polygram filmed entertainment",
+    "slug": "polygram-filmed-entertainment",
+    "matchKey": "polygram filmed entertainment",
+    "file": "icons/polygram-filmed-entertainment.svg"
+  },
+  {
+    "name": "pulse films",
+    "slug": "pulse-films",
+    "matchKey": "pulse films",
+    "file": "icons/pulse-films.svg"
+  },
+  {
+    "name": "quizzical pictures (south africa)",
+    "slug": "quizzical-pictures-south-africa",
+    "matchKey": "quizzical pictures (south africa)",
+    "file": "icons/quizzical-pictures-south-africa.svg"
+  },
+  {
+    "name": "rank organisation",
+    "slug": "rank-organisation",
+    "matchKey": "rank organisation",
+    "file": "icons/rank-organisation.svg"
+  },
+  {
+    "name": "raw tv",
+    "slug": "raw-tv",
+    "matchKey": "raw tv",
+    "file": "icons/raw-tv.svg"
+  },
+  {
+    "name": "red chillies entertainment",
+    "slug": "red-chillies-entertainment",
+    "matchKey": "red chillies entertainment",
+    "file": "icons/red-chillies-entertainment.svg"
+  },
+  {
+    "name": "regency enterprises",
+    "slug": "regency-enterprises",
+    "matchKey": "regency enterprises",
+    "file": "icons/regency-enterprises.svg"
+  },
+  {
+    "name": "reliance entertainment",
+    "slug": "reliance-entertainment",
+    "matchKey": "reliance entertainment",
+    "file": "icons/reliance-entertainment.svg"
+  },
+  {
+    "name": "republic pictures",
+    "slug": "republic-pictures",
+    "matchKey": "republic pictures",
+    "file": "icons/republic-pictures.svg"
+  },
+  {
+    "name": "rko radio pictures",
+    "slug": "rko-radio-pictures",
+    "matchKey": "rko radio pictures",
+    "file": "icons/rko-radio-pictures.svg"
+  },
+  {
+    "name": "sahamongkol film",
+    "slug": "sahamongkol-film",
+    "matchKey": "sahamongkol film",
+    "file": "icons/sahamongkol-film.svg"
+  },
+  {
+    "name": "sandbox films",
+    "slug": "sandbox-films",
+    "matchKey": "sandbox films",
+    "file": "icons/sandbox-films.svg"
+  },
+  {
+    "name": "scream factory",
+    "slug": "scream-factory",
+    "matchKey": "scream factory",
+    "file": "icons/scream-factory.svg"
+  },
+  {
+    "name": "selznick international pictures",
+    "slug": "selznick-international-pictures",
+    "matchKey": "selznick international pictures",
+    "file": "icons/selznick-international-pictures.svg"
+  },
+  {
+    "name": "severin films",
+    "slug": "severin-films",
+    "matchKey": "severin films",
+    "file": "icons/severin-films.svg"
+  },
+  {
+    "name": "sf studios",
+    "slug": "sf-studios",
+    "matchKey": "sf studios",
+    "file": "icons/sf-studios.svg"
+  },
+  {
+    "name": "shaw brothers",
+    "slug": "shaw-brothers",
+    "matchKey": "shaw brothers",
+    "file": "icons/shaw-brothers.svg"
+  },
+  {
+    "name": "shochiku",
+    "slug": "shochiku",
+    "matchKey": "shochiku",
+    "file": "icons/shochiku.svg"
+  },
+  {
+    "name": "shout! factory",
+    "slug": "shout-factory",
+    "matchKey": "shout! factory",
+    "file": "icons/shout-factory.svg"
+  },
+  {
+    "name": "showbox",
+    "slug": "showbox",
+    "matchKey": "showbox",
+    "file": "icons/showbox.svg"
+  },
+  {
+    "name": "showtime",
+    "slug": "showtime",
+    "matchKey": "showtime",
+    "file": "icons/showtime.svg"
+  },
+  {
+    "name": "sony pictures",
+    "slug": "sony-pictures",
+    "matchKey": "sony pictures",
+    "file": "icons/sony-pictures.svg"
+  },
+  {
+    "name": "spectrevision",
+    "slug": "spectrevision",
+    "matchKey": "spectrevision",
+    "file": "icons/spectrevision.svg"
+  },
+  {
+    "name": "starz",
+    "slug": "starz",
+    "matchKey": "starz",
+    "file": "icons/starz.svg"
+  },
+  {
+    "name": "story films",
+    "slug": "story-films",
+    "matchKey": "story films",
+    "file": "icons/story-films.svg"
+  },
+  {
+    "name": "story syndicate",
+    "slug": "story-syndicate",
+    "matchKey": "story syndicate",
+    "file": "icons/story-syndicate.svg"
+  },
+  {
+    "name": "studio pierrot",
+    "slug": "studio-pierrot",
+    "matchKey": "studio pierrot",
+    "file": "icons/studio-pierrot.svg"
+  },
+  {
+    "name": "studiocanal uk",
+    "slug": "studiocanal-uk",
+    "matchKey": "studiocanal uk",
+    "file": "icons/studiocanal-uk.svg"
+  },
+  {
+    "name": "sunrise",
+    "slug": "sunrise",
+    "matchKey": "sunrise",
+    "file": "icons/sunrise.svg"
+  },
+  {
+    "name": "svensk filmindustri",
+    "slug": "svensk-filmindustri",
+    "matchKey": "svensk filmindustri",
+    "file": "icons/svensk-filmindustri.svg"
+  },
+  {
+    "name": "t-series",
+    "slug": "t-series",
+    "matchKey": "t-series",
+    "file": "icons/t-series.svg"
+  },
+  {
+    "name": "telecinco cinema",
+    "slug": "telecinco-cinema",
+    "matchKey": "telecinco cinema",
+    "file": "icons/telecinco-cinema.svg"
+  },
+  {
+    "name": "televisa (mexico)",
+    "slug": "televisa-mexico",
+    "matchKey": "televisa (mexico)",
+    "file": "icons/televisa-mexico.svg"
+  },
+  {
+    "name": "terra mater studios",
+    "slug": "terra-mater-studios",
+    "matchKey": "terra mater studios",
+    "file": "icons/terra-mater-studios.svg"
+  },
+  {
+    "name": "the asylum",
+    "slug": "the-asylum",
+    "matchKey": "the asylum",
+    "file": "icons/the-asylum.svg"
+  },
+  {
+    "name": "the ladd company",
+    "slug": "the-ladd-company",
+    "matchKey": "the ladd company",
+    "file": "icons/the-ladd-company.svg"
+  },
+  {
+    "name": "this machine",
+    "slug": "this-machine",
+    "matchKey": "this machine",
+    "file": "icons/this-machine.svg"
+  },
+  {
+    "name": "tiffany pictures",
+    "slug": "tiffany-pictures",
+    "matchKey": "tiffany pictures",
+    "file": "icons/tiffany-pictures.svg"
+  },
+  {
+    "name": "toei company",
+    "slug": "toei-company",
+    "matchKey": "toei company",
+    "file": "icons/toei-company.svg"
+  },
+  {
+    "name": "toho",
+    "slug": "toho",
+    "matchKey": "toho",
+    "file": "icons/toho.svg"
+  },
+  {
+    "name": "toho co., ltd.",
+    "slug": "toho-co-ltd",
+    "matchKey": "toho co., ltd.",
+    "file": "icons/toho-co-ltd.svg"
+  },
+  {
+    "name": "tondero producciones (peru)",
+    "slug": "tondero-producciones-peru",
+    "matchKey": "tondero producciones (peru)",
+    "file": "icons/tondero-producciones-peru.svg"
+  },
+  {
+    "name": "touchstone pictures",
+    "slug": "touchstone-pictures",
+    "matchKey": "touchstone pictures",
+    "file": "icons/touchstone-pictures.svg"
+  },
+  {
+    "name": "triggerfish animation studios (south africa)",
+    "slug": "triggerfish-animation-studios-south-africa",
+    "matchKey": "triggerfish animation studios (south africa)",
+    "file": "icons/triggerfish-animation-studios-south-africa.svg"
+  },
+  {
+    "name": "trilogy films",
+    "slug": "trilogy-films",
+    "matchKey": "trilogy films",
+    "file": "icons/trilogy-films.svg"
+  },
+  {
+    "name": "tristar pictures",
+    "slug": "tristar-pictures",
+    "matchKey": "tristar pictures",
+    "file": "icons/tristar-pictures.svg"
+  },
+  {
+    "name": "troma entertainment",
+    "slug": "troma-entertainment",
+    "matchKey": "troma entertainment",
+    "file": "icons/troma-entertainment.svg"
+  },
+  {
+    "name": "trustnordisk",
+    "slug": "trustnordisk",
+    "matchKey": "trustnordisk",
+    "file": "icons/trustnordisk.svg"
+  },
+  {
+    "name": "twisted pictures",
+    "slug": "twisted-pictures",
+    "matchKey": "twisted pictures",
+    "file": "icons/twisted-pictures.svg"
+  },
+  {
+    "name": "ufa gmbh",
+    "slug": "ufa-gmbh",
+    "matchKey": "ufa gmbh",
+    "file": "icons/ufa-gmbh.svg"
+  },
+  {
+    "name": "united artists",
+    "slug": "united-artists",
+    "matchKey": "united artists",
+    "file": "icons/united-artists.svg"
+  },
+  {
+    "name": "vestron pictures",
+    "slug": "vestron-pictures",
+    "matchKey": "vestron pictures",
+    "file": "icons/vestron-pictures.svg"
+  },
+  {
+    "name": "videovision entertainment (south africa)",
+    "slug": "videovision-entertainment-south-africa",
+    "matchKey": "videovision entertainment (south africa)",
+    "file": "icons/videovision-entertainment-south-africa.svg"
+  },
+  {
+    "name": "vinegar syndrome",
+    "slug": "vinegar-syndrome",
+    "matchKey": "vinegar syndrome",
+    "file": "icons/vinegar-syndrome.svg"
+  },
+  {
+    "name": "viva films",
+    "slug": "viva-films",
+    "matchKey": "viva films",
+    "file": "icons/viva-films.svg"
+  },
+  {
+    "name": "walt disney productions",
+    "slug": "walt-disney-productions",
+    "matchKey": "walt disney productions",
+    "file": "icons/walt-disney-productions.svg"
+  },
+  {
+    "name": "wanda pictures",
+    "slug": "wanda-pictures",
+    "matchKey": "wanda pictures",
+    "file": "icons/wanda-pictures.svg"
+  },
+  {
+    "name": "warner bros. pictures",
+    "slug": "warner-bros-pictures",
+    "matchKey": "warner bros. pictures",
+    "file": "icons/warner-bros-pictures.svg"
+  },
+  {
+    "name": "woodcut media",
+    "slug": "woodcut-media",
+    "matchKey": "woodcut media",
+    "file": "icons/woodcut-media.svg"
+  },
+  {
+    "name": "x filme creative pool",
+    "slug": "x-filme-creative-pool",
+    "matchKey": "x filme creative pool",
+    "file": "icons/x-filme-creative-pool.svg"
+  },
+  {
+    "name": "yash raj films",
+    "slug": "yash-raj-films",
+    "matchKey": "yash raj films",
+    "file": "icons/yash-raj-films.svg"
+  },
+  {
+    "name": "yellow bird",
+    "slug": "yellow-bird",
+    "matchKey": "yellow bird",
+    "file": "icons/yellow-bird.svg"
+  },
+  {
+    "name": "yellowbone entertainment (south africa)",
+    "slug": "yellowbone-entertainment-south-africa",
+    "matchKey": "yellowbone entertainment (south africa)",
+    "file": "icons/yellowbone-entertainment-south-africa.svg"
+  },
+  {
+    "name": "zentropa",
+    "slug": "zentropa",
+    "matchKey": "zentropa",
+    "file": "icons/zentropa.svg"
   }
 ]
