@@ -406,10 +406,10 @@
     "region": "europe"
   },
   {
-    "name": "Pathé",
-    "slug": "pathé",
+    "name": "Path\u00e9",
+    "slug": "path\u00e9",
     "matchKey": "path\\u00e9",
-    "file": "icons/uncategorized/pathé.svg",
+    "file": "icons/uncategorized/path\u00e9.svg",
     "region": "uncategorized"
   },
   {
@@ -2300,13 +2300,6 @@
     "slug": "paramount-plus",
     "matchKey": "paramount plus",
     "file": "icons/streaming-networks/paramount-plus.svg",
-    "region": "streaming-networks"
-  },
-  {
-    "name": "Apple Tv Plus",
-    "slug": "apple-tv-plus",
-    "matchKey": "apple tv plus",
-    "file": "icons/streaming-networks/apple-tv-plus.svg",
     "region": "streaming-networks"
   },
   {
@@ -5346,5 +5339,19 @@
     "matchKey": "perfini indonesia",
     "file": "icons/uncategorized/perfini-indonesia.svg",
     "region": "uncategorized"
+  },
+  {
+    "name": "Apple TV Plus",
+    "slug": "apple-tv-plus",
+    "matchKey": "apple tv plus",
+    "file": "icons/streaming-networks/apple-tv-plus.svg",
+    "region": "streaming-networks"
+  },
+  {
+    "name": "Apple Studios",
+    "slug": "apple-studios",
+    "matchKey": "apple studios",
+    "file": "icons/north-america/apple-studios.svg",
+    "region": "north-america"
   }
 ]
